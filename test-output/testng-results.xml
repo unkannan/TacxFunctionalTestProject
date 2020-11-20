@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37179" started-at="2020-11-21T00:54:45 CET" finished-at="2020-11-21T00:55:22 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37179" started-at="2020-11-21T00:54:45 CET" finished-at="2020-11-21T00:55:22 CET">
+      <class name="com.org.test.TacxTestAssignment">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.org.test.TacxTestAssignment@15d9bc04]" name="setUp" is-config="true" duration-ms="11198" started-at="2020-11-21T00:54:45 CET" finished-at="2020-11-21T00:54:56 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="OpenTacxApplication()[pri:0, instance:com.org.test.TacxTestAssignment@15d9bc04]" name="OpenTacxApplication" is-config="true" duration-ms="8" started-at="2020-11-21T00:54:56 CET" finished-at="2020-11-21T00:54:56 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenTacxApplication -->
+        <test-method status="PASS" signature="tc_05_clickSignUp_withdetails()[pri:0, instance:com.org.test.TacxTestAssignment@15d9bc04]" name="tc_05_clickSignUp_withdetails" duration-ms="25860" started-at="2020-11-21T00:54:56 CET" finished-at="2020-11-21T00:55:22 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_05_clickSignUp_withdetails -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.org.test.TacxTestAssignment@15d9bc04]" name="teardown" is-config="true" duration-ms="0" started-at="2020-11-21T00:55:22 CET" finished-at="2020-11-21T00:55:22 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tc_05_clickSignUp_withdetails status=SUCCESS method=TacxTestAssignment.tc_05_clickSignUp_withdetails()[pri:0, instance:com.org.test.TacxTestAssignment@15d9bc04] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.org.test.TacxTestAssignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

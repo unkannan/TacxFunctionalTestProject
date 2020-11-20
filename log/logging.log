@@ -1,0 +1,343 @@
+2020-02-18 16:15:12 INFO  LibraryPage:72 - # Library Page Header :Welcome to our Library!
+2020-02-18 16:15:18 INFO  LibraryPage:82 - # Library Page Menu Books Check: Books
+2020-02-18 16:15:18 INFO  LibraryPage:92 - # Library Page Menu Authors Check: Authors
+2020-02-18 16:15:24 INFO  LibraryPage:103 - # Default Page shows when No books are selected by user: Please, select the book
+2020-02-18 16:15:30 INFO  LibraryPage:120 - # Default Filter Search Text Box Contains text as : Filter
+2020-02-18 16:15:35 INFO  LibraryPage:128 - # Displaying Books List : 
+2020-02-18 16:15:36 INFO  LibraryPage:132 - # Books List : giovanni's room
+2020-02-18 16:15:36 INFO  LibraryPage:132 - # Books List : desert solitaire
+2020-02-18 16:15:36 INFO  LibraryPage:132 - # Books List : geek love
+2020-02-18 16:15:36 INFO  LibraryPage:132 - # Books List : lolita
+2020-02-18 16:15:36 INFO  LibraryPage:132 - # Books List : A Good Man Is Hard to Find and Other Stories
+2020-02-18 16:15:36 INFO  LibraryPage:132 - # Books List : if on a Winter's Night a Traveler
+2020-02-18 16:15:36 INFO  LibraryPage:132 - # Books List : infinite jest
+2020-02-18 16:15:41 INFO  LibraryPage:246 - # Book Selected : desert Solitaire in Book List
+2020-02-18 16:15:42 INFO  LibraryPage:140 - # Clicked the delete link for desert Solitaire Book 
+2020-02-18 16:15:47 INFO  LibraryPage:147 - # Books List has the Book Name geek love
+2020-02-18 16:15:47 INFO  LibraryPage:150 - # Books Deleted : desert Solitaire
+2020-02-18 16:15:52 INFO  LibraryPage:157 - # Searching book in Filter Text box :lolita
+2020-02-18 16:15:52 INFO  LibraryPage:162 - # Books Listed lolita
+2020-02-18 16:15:52 INFO  LibraryPage:165 - # Search Results : Success
+2020-02-18 16:15:57 INFO  LibraryPage:173 - # Searching book with Invalid book Name in Filter Text box 
+2020-02-18 16:16:07 INFO  LibraryPage:176 - # Books found in the List for Invalid Search 0
+2020-02-18 16:16:13 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-18 16:16:13 INFO  LibraryPage:195 - # Book Details Title Display : geek love
+2020-02-18 16:16:13 INFO  LibraryPage:202 - # Book Details Title Label Check :Title
+2020-02-18 16:16:13 INFO  LibraryPage:211 - # Book Details Author label Check :Author
+2020-02-18 16:16:13 INFO  LibraryPage:220 - # Book Details Publisher label Check : Publisher
+2020-02-18 16:16:13 INFO  LibraryPage:229 - # Book Details Year of Publishing label Check : Year of publishing
+2020-02-18 16:16:19 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-18 16:16:19 INFO  LibraryPage:257 - # Book Details Title : geek love
+2020-02-18 16:16:19 INFO  LibraryPage:264 - # Book Details Author : 2
+2020-02-18 16:16:19 INFO  LibraryPage:271 - # Book Details Publisher :Constable & Co Ltd
+2020-02-18 16:16:19 INFO  LibraryPage:278 - # Book Details Year Of Publishing : 1942
+2020-02-18 16:16:24 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-18 16:16:24 INFO  LibraryPage:306 - # Save Button Name Display SAVE
+2020-02-18 16:16:24 INFO  LibraryPage:313 - # Cancel Button Name Display CANCEL
+2020-02-18 16:16:24 INFO  LibraryPage:298 - # Save Button Enable Check 
+2020-02-18 16:16:24 INFO  LibraryPage:300 - # Save Button Behavior Check Shows : Disabled
+2020-02-18 16:16:24 INFO  LibraryPage:292 - # Cancel Button default behavior Check whether Enable or Disable: 
+2020-02-18 16:16:24 INFO  LibraryPage:294 - # Cancel Button Behavior Check Shows : Disabled
+2020-02-18 16:16:31 INFO  LibraryPage:242 - # Clicked on Link : lolita Love in Book List
+2020-02-18 16:16:31 INFO  LibraryPage:340 - # Alert Message For Title Mandatory check : Title is required
+2020-02-18 16:16:31 INFO  LibraryPage:346 - # Alert Message For Title Mandatory check : Publisher is required
+2020-02-18 16:16:31 INFO  LibraryPage:352 - # Alert Message For Title Mandatory check : Year is required
+2020-02-18 16:16:37 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-18 16:16:37 INFO  LibraryPage:361 - # Author Details : 
+2020-02-18 16:16:43 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-18 16:16:43 INFO  LibraryPage:373 - # user modifies Title value :TitleChange
+2020-02-18 16:16:43 INFO  LibraryPage:377 - # user modifies Author value :AuthorChange
+2020-02-18 16:16:43 INFO  LibraryPage:385 - # user modifies year of Publishing value :2020
+2020-02-18 16:16:43 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-18 16:16:43 INFO  LibraryPage:246 - # Book Selected : desert Solitaire in Book List
+2020-02-18 16:16:44 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-18 16:16:44 INFO  LibraryPage:390 - # Title Details changed:TitleChange
+2020-02-18 16:16:44 INFO  LibraryPage:394 - # AuthorText Details changed:AuthorChange
+2020-02-18 16:16:44 INFO  LibraryPage:398 - # YearOfPublishing Details changed:2020
+2020-02-18 16:16:49 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-18 16:16:49 INFO  LibraryPage:381 - # user modifies Publisher value :PublisherChange
+2020-02-18 16:16:50 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-18 16:16:50 INFO  LibraryPage:246 - # Book Selected : desert Solitaire in Book List
+2020-02-18 16:16:50 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-18 16:16:50 INFO  LibraryPage:404 - # publisher details values changed :Constable & Co Ltd
+2020-02-18 16:16:56 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-18 16:16:56 INFO  LibraryPage:410 - # user enters larger chars in TitleTextField :100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText
+2020-02-18 16:16:56 INFO  LibraryPage:412 - # user enters larger chars in AuthorTextValueID :100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText
+2020-02-18 16:16:56 INFO  LibraryPage:414 - # user enters larger chars in PublisherTextValueID :100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText
+2020-02-18 16:16:57 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-18 16:17:02 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-18 16:17:02 INFO  LibraryPage:418 - # user enter alphanumberic text in year of publishing text field :1234AlphaNumeric
+2020-02-18 16:17:03 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-18 16:17:03 INFO  LibraryPage:423 - # Alert Message shown :Year is required
+2020-02-18 16:17:08 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-18 16:17:08 INFO  LibraryPage:373 - # user modifies Title value :TitleChange
+2020-02-18 16:17:08 INFO  LibraryPage:377 - # user modifies Author value :AuthorChange
+2020-02-18 16:17:08 INFO  LibraryPage:381 - # user modifies Publisher value :PublisherChange
+2020-02-18 16:17:09 INFO  LibraryPage:323 - # User clicks Cancel button : success
+2020-02-18 16:17:09 INFO  LibraryPage:257 - # Book Details Title : geek love
+2020-02-18 16:17:09 INFO  LibraryPage:264 - # Book Details Author : 2
+2020-02-18 16:17:09 INFO  LibraryPage:271 - # Book Details Publisher :Constable & Co Ltd
+2020-02-18 16:17:09 INFO  LibraryPage:278 - # Book Details Year Of Publishing : 1942
+2020-02-18 16:17:14 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-18 16:17:14 INFO  LibraryPage:385 - # user modifies year of Publishing value :2020
+2020-02-18 16:17:15 INFO  LibraryPage:323 - # User clicks Cancel button : success
+2020-02-18 16:17:15 INFO  LibraryPage:278 - # Book Details Year Of Publishing : 2020
+2020-02-18 16:17:20 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-18 16:17:20 INFO  LibraryPage:441 - # User Enters Future date in Year of Publishing text :2030
+2020-02-18 16:17:21 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-18 16:17:21 INFO  LibraryPage:242 - # Clicked on Link : lolita Love in Book List
+2020-02-18 16:17:21 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-18 16:17:21 INFO  LibraryPage:446 - # year of Publishing Value shown as :2030
+2020-02-18 16:17:27 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-18 16:17:27 INFO  LibraryPage:430 - # User Enters More than 4 digits in Year of Publishing text :1230122211
+2020-02-18 16:17:27 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-18 16:17:27 INFO  LibraryPage:242 - # Clicked on Link : lolita Love in Book List
+2020-02-18 16:17:27 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-18 16:17:27 INFO  LibraryPage:435 - # year of Publishing Value shown as :1230122211
+2020-02-19 15:22:32 INFO  LibraryPage:72 - # Library Page Header :Welcome to our Library!
+2020-02-19 15:22:37 INFO  LibraryPage:82 - # Library Page Menu Books Check: Books
+2020-02-19 15:22:37 INFO  LibraryPage:92 - # Library Page Menu Authors Check: Authors
+2020-02-19 15:22:42 INFO  LibraryPage:103 - # Default Page shows when No books are selected by user: Please, select the book
+2020-02-19 15:22:48 INFO  LibraryPage:120 - # Default Filter Search Text Box Contains text as : Filter
+2020-02-19 15:22:53 INFO  LibraryPage:128 - # Displaying Books List : 
+2020-02-19 15:22:53 INFO  LibraryPage:132 - # Books List : giovanni's room
+2020-02-19 15:22:53 INFO  LibraryPage:132 - # Books List : desert solitaire
+2020-02-19 15:22:53 INFO  LibraryPage:132 - # Books List : geek love
+2020-02-19 15:22:53 INFO  LibraryPage:132 - # Books List : lolita
+2020-02-19 15:22:53 INFO  LibraryPage:132 - # Books List : A Good Man Is Hard to Find and Other Stories
+2020-02-19 15:22:53 INFO  LibraryPage:132 - # Books List : if on a Winter's Night a Traveler
+2020-02-19 15:22:53 INFO  LibraryPage:132 - # Books List : infinite jest
+2020-02-19 15:22:59 INFO  LibraryPage:246 - # Book Selected : desert Solitaire in Book List
+2020-02-19 15:22:59 INFO  LibraryPage:140 - # Clicked the delete link for desert Solitaire Book 
+2020-02-19 15:23:04 INFO  LibraryPage:147 - # Books List has the Book Name geek love
+2020-02-19 15:23:04 INFO  LibraryPage:150 - # Books Deleted : desert Solitaire
+2020-02-19 15:23:09 INFO  LibraryPage:157 - # Searching book in Filter Text box :lolita
+2020-02-19 15:23:09 INFO  LibraryPage:162 - # Books Listed lolita
+2020-02-19 15:23:09 INFO  LibraryPage:165 - # Search Results : Success
+2020-02-19 15:23:15 INFO  LibraryPage:173 - # Searching book with Invalid book Name in Filter Text box 
+2020-02-19 15:23:25 INFO  LibraryPage:176 - # Books found in the List for Invalid Search 0
+2020-02-19 15:23:30 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 15:23:30 INFO  LibraryPage:195 - # Book Details Title Display : geek love
+2020-02-19 15:23:30 INFO  LibraryPage:202 - # Book Details Title Label Check :Title
+2020-02-19 15:23:30 INFO  LibraryPage:211 - # Book Details Author label Check :Author
+2020-02-19 15:23:30 INFO  LibraryPage:220 - # Book Details Publisher label Check : Publisher
+2020-02-19 15:23:30 INFO  LibraryPage:229 - # Book Details Year of Publishing label Check : Year of publishing
+2020-02-19 15:23:36 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 15:23:36 INFO  LibraryPage:257 - # Book Details Title : geek love
+2020-02-19 15:23:36 INFO  LibraryPage:264 - # Book Details Author : 2
+2020-02-19 15:23:36 INFO  LibraryPage:271 - # Book Details Publisher :Constable & Co Ltd
+2020-02-19 15:23:36 INFO  LibraryPage:278 - # Book Details Year Of Publishing : 1942
+2020-02-19 15:23:41 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 15:23:41 INFO  LibraryPage:306 - # Save Button Name Display SAVE
+2020-02-19 15:23:41 INFO  LibraryPage:313 - # Cancel Button Name Display CANCEL
+2020-02-19 15:23:41 INFO  LibraryPage:298 - # Save Button Enable Check 
+2020-02-19 15:23:41 INFO  LibraryPage:300 - # Save Button Behavior Check Shows : Disabled
+2020-02-19 15:23:41 INFO  LibraryPage:292 - # Cancel Button default behavior Check whether Enable or Disable: 
+2020-02-19 15:23:41 INFO  LibraryPage:294 - # Cancel Button Behavior Check Shows : Disabled
+2020-02-19 15:23:47 INFO  LibraryPage:242 - # Clicked on Link : lolita Love in Book List
+2020-02-19 15:23:47 INFO  LibraryPage:340 - # Alert Message For Title Mandatory check : Title is required
+2020-02-19 15:23:47 INFO  LibraryPage:346 - # Alert Message For Title Mandatory check : Publisher is required
+2020-02-19 15:23:47 INFO  LibraryPage:352 - # Alert Message For Title Mandatory check : Year is required
+2020-02-19 15:23:53 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 15:23:53 INFO  LibraryPage:361 - # Author Details : 
+2020-02-19 15:23:59 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 15:23:59 INFO  LibraryPage:373 - # user modifies Title value :TitleChange
+2020-02-19 15:23:59 INFO  LibraryPage:377 - # user modifies Author value :AuthorChange
+2020-02-19 15:23:59 INFO  LibraryPage:385 - # user modifies year of Publishing value :2020
+2020-02-19 15:23:59 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-19 15:23:59 INFO  LibraryPage:246 - # Book Selected : desert Solitaire in Book List
+2020-02-19 15:24:00 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 15:24:00 INFO  LibraryPage:390 - # Title Details changed:TitleChange
+2020-02-19 15:24:00 INFO  LibraryPage:394 - # AuthorText Details changed:AuthorChange
+2020-02-19 15:24:00 INFO  LibraryPage:398 - # YearOfPublishing Details changed:2020
+2020-02-19 15:24:05 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 15:24:05 INFO  LibraryPage:381 - # user modifies Publisher value :PublisherChange
+2020-02-19 15:24:06 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-19 15:24:06 INFO  LibraryPage:246 - # Book Selected : desert Solitaire in Book List
+2020-02-19 15:24:06 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 15:24:06 INFO  LibraryPage:404 - # publisher details values changed :Constable & Co Ltd
+2020-02-19 15:24:12 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 15:24:12 INFO  LibraryPage:410 - # user enters larger chars in TitleTextField :100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText
+2020-02-19 15:24:12 INFO  LibraryPage:412 - # user enters larger chars in AuthorTextValueID :100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText
+2020-02-19 15:24:12 INFO  LibraryPage:414 - # user enters larger chars in PublisherTextValueID :100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText
+2020-02-19 15:24:13 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-19 15:24:18 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 15:24:18 INFO  LibraryPage:418 - # user enter alphanumberic text in year of publishing text field :1234AlphaNumeric
+2020-02-19 15:24:18 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-19 15:24:18 INFO  LibraryPage:423 - # Alert Message shown :Year is required
+2020-02-19 15:24:24 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 15:24:24 INFO  LibraryPage:373 - # user modifies Title value :TitleChange
+2020-02-19 15:24:24 INFO  LibraryPage:377 - # user modifies Author value :AuthorChange
+2020-02-19 15:24:24 INFO  LibraryPage:381 - # user modifies Publisher value :PublisherChange
+2020-02-19 15:24:24 INFO  LibraryPage:323 - # User clicks Cancel button : success
+2020-02-19 15:24:24 INFO  LibraryPage:257 - # Book Details Title : geek love
+2020-02-19 15:24:24 INFO  LibraryPage:264 - # Book Details Author : 2
+2020-02-19 15:24:24 INFO  LibraryPage:271 - # Book Details Publisher :Constable & Co Ltd
+2020-02-19 15:24:24 INFO  LibraryPage:278 - # Book Details Year Of Publishing : 1942
+2020-02-19 15:24:30 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 15:24:30 INFO  LibraryPage:385 - # user modifies year of Publishing value :2020
+2020-02-19 15:24:30 INFO  LibraryPage:323 - # User clicks Cancel button : success
+2020-02-19 15:24:30 INFO  LibraryPage:278 - # Book Details Year Of Publishing : 2020
+2020-02-19 15:24:36 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 15:24:36 INFO  LibraryPage:441 - # User Enters Future date in Year of Publishing text :2030
+2020-02-19 15:24:36 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-19 15:24:36 INFO  LibraryPage:242 - # Clicked on Link : lolita Love in Book List
+2020-02-19 15:24:36 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 15:24:36 INFO  LibraryPage:446 - # year of Publishing Value shown as :2030
+2020-02-19 15:24:42 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 15:24:42 INFO  LibraryPage:430 - # User Enters More than 4 digits in Year of Publishing text :1230122211
+2020-02-19 15:24:42 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-19 15:24:43 INFO  LibraryPage:242 - # Clicked on Link : lolita Love in Book List
+2020-02-19 15:24:43 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 15:24:43 INFO  LibraryPage:435 - # year of Publishing Value shown as :1230122211
+2020-02-19 16:13:54 INFO  LibraryPage:72 - # Library Page Header :Welcome to our Library!
+2020-02-19 16:13:59 INFO  LibraryPage:82 - # Library Page Menu Books Check: Books
+2020-02-19 16:13:59 INFO  LibraryPage:92 - # Library Page Menu Authors Check: Authors
+2020-02-19 16:14:05 INFO  LibraryPage:103 - # Default Page shows when No books are selected by user: Please, select the book
+2020-02-19 16:14:10 INFO  LibraryPage:120 - # Default Filter Search Text Box Contains text as : Filter
+2020-02-19 16:14:15 INFO  LibraryPage:128 - # Displaying Books List : 
+2020-02-19 16:14:15 INFO  LibraryPage:132 - # Books List : giovanni's room
+2020-02-19 16:14:15 INFO  LibraryPage:132 - # Books List : desert solitaire
+2020-02-19 16:14:15 INFO  LibraryPage:132 - # Books List : geek love
+2020-02-19 16:14:15 INFO  LibraryPage:132 - # Books List : lolita
+2020-02-19 16:14:15 INFO  LibraryPage:132 - # Books List : A Good Man Is Hard to Find and Other Stories
+2020-02-19 16:14:15 INFO  LibraryPage:132 - # Books List : if on a Winter's Night a Traveler
+2020-02-19 16:14:15 INFO  LibraryPage:132 - # Books List : infinite jest
+2020-02-19 16:14:21 INFO  LibraryPage:246 - # Book Selected : desert Solitaire in Book List
+2020-02-19 16:14:21 INFO  LibraryPage:140 - # Clicked the delete link for desert Solitaire Book 
+2020-02-19 16:14:26 INFO  LibraryPage:147 - # Books List has the Book Name geek love
+2020-02-19 16:14:26 INFO  LibraryPage:150 - # Books Deleted : desert Solitaire
+2020-02-19 16:14:31 INFO  LibraryPage:157 - # Searching book in Filter Text box :lolita
+2020-02-19 16:14:31 INFO  LibraryPage:162 - # Books Listed lolita
+2020-02-19 16:14:31 INFO  LibraryPage:165 - # Search Results : Success
+2020-02-19 16:14:37 INFO  LibraryPage:173 - # Searching book with Invalid book Name in Filter Text box 
+2020-02-19 16:14:47 INFO  LibraryPage:176 - # Books found in the List for Invalid Search 0
+2020-02-19 16:14:52 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 16:14:52 INFO  LibraryPage:195 - # Book Details Title Display : geek love
+2020-02-19 16:14:52 INFO  LibraryPage:202 - # Book Details Title Label Check :Title
+2020-02-19 16:14:52 INFO  LibraryPage:211 - # Book Details Author label Check :Author
+2020-02-19 16:14:52 INFO  LibraryPage:220 - # Book Details Publisher label Check : Publisher
+2020-02-19 16:14:52 INFO  LibraryPage:229 - # Book Details Year of Publishing label Check : Year of publishing
+2020-02-19 16:14:58 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 16:14:58 INFO  LibraryPage:257 - # Book Details Title : geek love
+2020-02-19 16:14:58 INFO  LibraryPage:264 - # Book Details Author : 2
+2020-02-19 16:14:58 INFO  LibraryPage:271 - # Book Details Publisher :Constable & Co Ltd
+2020-02-19 16:14:58 INFO  LibraryPage:278 - # Book Details Year Of Publishing : 1942
+2020-02-19 16:15:03 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 16:15:03 INFO  LibraryPage:306 - # Save Button Name Display SAVE
+2020-02-19 16:15:03 INFO  LibraryPage:313 - # Cancel Button Name Display CANCEL
+2020-02-19 16:15:03 INFO  LibraryPage:298 - # Save Button Enable Check 
+2020-02-19 16:15:04 INFO  LibraryPage:300 - # Save Button Behavior Check Shows : Disabled
+2020-02-19 16:15:04 INFO  LibraryPage:292 - # Cancel Button default behavior Check whether Enable or Disable: 
+2020-02-19 16:15:04 INFO  LibraryPage:294 - # Cancel Button Behavior Check Shows : Disabled
+2020-02-19 16:15:09 INFO  LibraryPage:242 - # Clicked on Link : lolita Love in Book List
+2020-02-19 16:15:09 INFO  LibraryPage:340 - # Alert Message For Title Mandatory check : Title is required
+2020-02-19 16:15:09 INFO  LibraryPage:346 - # Alert Message For Title Mandatory check : Publisher is required
+2020-02-19 16:15:10 INFO  LibraryPage:352 - # Alert Message For Title Mandatory check : Year is required
+2020-02-19 16:15:15 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 16:15:15 INFO  LibraryPage:361 - # Author Details : 
+2020-02-19 16:15:21 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 16:15:21 INFO  LibraryPage:373 - # user modifies Title value :TitleChange
+2020-02-19 16:15:21 INFO  LibraryPage:377 - # user modifies Author value :AuthorChange
+2020-02-19 16:15:21 INFO  LibraryPage:385 - # user modifies year of Publishing value :2020
+2020-02-19 16:15:21 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-19 16:15:21 INFO  LibraryPage:246 - # Book Selected : desert Solitaire in Book List
+2020-02-19 16:15:22 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 16:15:22 INFO  LibraryPage:390 - # Title Details changed:TitleChange
+2020-02-19 16:15:22 INFO  LibraryPage:394 - # AuthorText Details changed:AuthorChange
+2020-02-19 16:15:22 INFO  LibraryPage:398 - # YearOfPublishing Details changed:2020
+2020-02-19 16:15:27 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 16:15:27 INFO  LibraryPage:381 - # user modifies Publisher value :PublisherChange
+2020-02-19 16:15:27 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-19 16:15:28 INFO  LibraryPage:246 - # Book Selected : desert Solitaire in Book List
+2020-02-19 16:15:28 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 16:15:28 INFO  LibraryPage:404 - # publisher details values changed :Constable & Co Ltd
+2020-02-19 16:15:34 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 16:15:34 INFO  LibraryPage:410 - # user enters larger chars in TitleTextField :100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText
+2020-02-19 16:15:34 INFO  LibraryPage:412 - # user enters larger chars in AuthorTextValueID :100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText
+2020-02-19 16:15:34 INFO  LibraryPage:414 - # user enters larger chars in PublisherTextValueID :100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText100CharsText
+2020-02-19 16:15:35 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-19 16:15:40 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 16:15:40 INFO  LibraryPage:418 - # user enter alphanumberic text in year of publishing text field :1234AlphaNumeric
+2020-02-19 16:15:40 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-19 16:15:40 INFO  LibraryPage:423 - # Alert Message shown :Year is required
+2020-02-19 16:15:46 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 16:15:46 INFO  LibraryPage:373 - # user modifies Title value :TitleChange
+2020-02-19 16:15:46 INFO  LibraryPage:377 - # user modifies Author value :AuthorChange
+2020-02-19 16:15:46 INFO  LibraryPage:381 - # user modifies Publisher value :PublisherChange
+2020-02-19 16:15:46 INFO  LibraryPage:323 - # User clicks Cancel button : success
+2020-02-19 16:15:46 INFO  LibraryPage:257 - # Book Details Title : geek love
+2020-02-19 16:15:46 INFO  LibraryPage:264 - # Book Details Author : 2
+2020-02-19 16:15:46 INFO  LibraryPage:271 - # Book Details Publisher :Constable & Co Ltd
+2020-02-19 16:15:46 INFO  LibraryPage:278 - # Book Details Year Of Publishing : 1942
+2020-02-19 16:15:52 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 16:15:52 INFO  LibraryPage:385 - # user modifies year of Publishing value :2020
+2020-02-19 16:15:52 INFO  LibraryPage:323 - # User clicks Cancel button : success
+2020-02-19 16:15:52 INFO  LibraryPage:278 - # Book Details Year Of Publishing : 2020
+2020-02-19 16:15:58 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 16:15:58 INFO  LibraryPage:441 - # User Enters Future date in Year of Publishing text :2030
+2020-02-19 16:15:58 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-19 16:15:59 INFO  LibraryPage:242 - # Clicked on Link : lolita Love in Book List
+2020-02-19 16:15:59 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 16:15:59 INFO  LibraryPage:446 - # year of Publishing Value shown as :2030
+2020-02-19 16:16:04 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 16:16:05 INFO  LibraryPage:430 - # User Enters More than 4 digits in Year of Publishing text :1230122211
+2020-02-19 16:16:05 INFO  LibraryPage:319 - # User clicks Save button : success
+2020-02-19 16:16:05 INFO  LibraryPage:242 - # Clicked on Link : lolita Love in Book List
+2020-02-19 16:16:05 INFO  LibraryPage:237 - # Clicked on Link : Geek Love in Book List
+2020-02-19 16:16:05 INFO  LibraryPage:435 - # year of Publishing Value shown as :1230122211
+2020-02-20 17:48:42 INFO  CurrencyConverterPage:42 - # Convert Page Header Currency Converter
+2020-02-20 17:48:42 INFO  CurrencyConverterPage:56 - # Source From Drop Down Selected EUR
+2020-02-20 17:48:42 INFO  CurrencyConverterPage:65 - # Source From Drop Down Selected INR
+2020-02-20 17:48:43 INFO  CurrencyConverterPage:74 - # Clicked on button: convert
+2020-02-20 17:48:43 INFO  CurrencyConverterResultsPage:36 - # Convert Page Header 1 Euro to Indian Rupee
+2020-02-20 17:49:26 INFO  CurrencyConverterPage:42 - # Convert Page Header Currency Converter
+2020-02-20 17:49:26 INFO  CurrencyConverterPage:56 - # Source From Drop Down Selected EUR
+2020-02-20 17:49:26 INFO  CurrencyConverterPage:65 - # Source From Drop Down Selected USD
+2020-02-20 17:49:27 INFO  CurrencyConverterPage:74 - # Clicked on button: convert
+2020-02-20 17:49:27 INFO  CurrencyConverterResultsPage:36 - # Convert Page Header 1 Euro to US Dollar
+2020-10-12 20:28:44 INFO  CurrencyConverterPage:42 - # Convert Page Header Currency Converter
+2020-11-19 22:23:20 INFO  CurrencyConverterPage:24 - # Clicked on button: create-account
+2020-11-19 22:23:20 INFO  CurrencyConverterPage:29 - # Clicked on button: signup
+2020-11-19 23:52:44 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-19 23:55:36 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-19 23:57:18 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-19 23:59:17 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 00:01:06 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 00:11:20 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 00:14:54 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 00:14:55 INFO  TacxMainPage:47 - # Clicked on button: signup
+2020-11-20 00:16:45 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 00:16:47 INFO  TacxMainPage:47 - # Clicked on button: signup
+2020-11-20 00:33:08 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 00:33:11 INFO  TacxMainPage:47 - # Clicked on button: signup
+2020-11-20 00:33:48 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 00:33:49 INFO  TacxMainPage:47 - # Clicked on button: signup
+2020-11-20 00:34:22 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 00:34:23 INFO  TacxMainPage:47 - # Clicked on button: signup
+2020-11-20 00:46:17 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 00:46:18 INFO  TacxMainPage:48 - # Clicked on button: signup
+2020-11-20 00:51:15 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 00:51:16 INFO  TacxMainPage:48 - # Clicked on button: signup
+2020-11-20 00:57:44 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 00:57:45 INFO  TacxMainPage:48 - # Clicked on button: signup
+2020-11-20 01:07:27 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 01:07:28 INFO  TacxMainPage:48 - # Clicked on button: signup
+2020-11-20 01:12:30 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 01:12:31 INFO  TacxMainPage:48 - # Clicked on button: signup
+2020-11-20 01:14:52 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 01:14:53 INFO  TacxMainPage:48 - # Clicked on button: signup
+2020-11-20 13:18:25 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 13:18:27 INFO  TacxMainPage:48 - # Clicked on button: signup
+2020-11-20 13:19:57 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 13:19:59 INFO  TacxMainPage:48 - # Clicked on button: signup
+2020-11-20 13:28:35 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 13:28:37 INFO  TacxMainPage:48 - # Clicked on button: signup
+2020-11-20 13:31:06 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 13:31:08 INFO  TacxMainPage:48 - # Clicked on button: signup
+2020-11-20 13:32:27 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 13:32:28 INFO  TacxMainPage:48 - # Clicked on button: signup
+2020-11-20 13:34:22 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-20 13:34:23 INFO  TacxMainPage:48 - # Clicked on button: signup
+2020-11-21 00:54:57 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
+2020-11-21 00:54:59 INFO  TacxMainPage:48 - # Clicked on button: signup
