@@ -341,3 +341,460 @@
 2020-11-20 13:34:23 INFO  TacxMainPage:48 - # Clicked on button: signup
 2020-11-21 00:54:57 INFO  TacxMainPage:30 - # Clicked on button: CreateAccount
 2020-11-21 00:54:59 INFO  TacxMainPage:48 - # Clicked on button: signup
+2020-11-21 18:03:26 INFO  TacxMainPage:29 - # Clicked on button: CreateAccount
+2020-11-21 18:03:27 INFO  TacxMainPage:46 - # Clicked on button: signup
+2020-11-21 18:03:33 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 18:12:25 INFO  TacxMainPage:29 - # Clicked on button: CreateAccount
+2020-11-21 18:12:25 INFO  TacxMainPage:46 - # Clicked on button: signup
+2020-11-21 18:12:32 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 18:12:32 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 18:12:32 INFO  CreateWorkoutPage:22 - # Clicked on link: Power
+2020-11-21 18:12:32 INFO  CreateWorkoutPage:27 - # Clicked on link: Power
+2020-11-21 18:44:17 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 18:44:18 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 18:44:24 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 18:44:24 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 18:44:24 INFO  CreateWorkoutPage:22 - # Clicked on link: Power
+2020-11-21 18:44:25 INFO  CreateWorkoutPage:27 - # Clicked on link: Power
+2020-11-21 18:44:25 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.0 km
+2020-11-21 18:44:25 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.1 km
+2020-11-21 18:44:25 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.2 km
+2020-11-21 18:44:25 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.3 km
+2020-11-21 18:44:25 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.4 km
+2020-11-21 18:44:25 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.5 km
+2020-11-21 18:44:26 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.6 km
+2020-11-21 18:44:26 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.7 km
+2020-11-21 18:44:26 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.8 km
+2020-11-21 18:44:26 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.9 km
+2020-11-21 18:44:26 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.0 km
+2020-11-21 18:44:26 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.1 km
+2020-11-21 18:44:26 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.2 km
+2020-11-21 18:44:26 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.3 km
+2020-11-21 18:44:27 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.4 km
+2020-11-21 18:44:27 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.5 km
+2020-11-21 18:44:27 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.6 km
+2020-11-21 18:44:27 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.7 km
+2020-11-21 18:44:27 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.8 km
+2020-11-21 18:44:27 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.9 km
+2020-11-21 18:44:27 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :12.0 km
+2020-11-21 18:44:28 INFO  CreateWorkoutCreatePage:32 - # Clicked on link: save
+2020-11-21 18:53:44 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 18:53:45 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 18:54:25 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 18:54:26 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 18:54:32 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 18:54:32 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 18:54:32 INFO  CreateWorkoutPage:22 - # Clicked on link: Power
+2020-11-21 18:54:32 INFO  CreateWorkoutPage:27 - # Clicked on link: Power
+2020-11-21 18:54:33 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.0 km
+2020-11-21 18:54:33 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.1 km
+2020-11-21 18:54:33 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.2 km
+2020-11-21 18:54:33 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.3 km
+2020-11-21 18:54:33 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.4 km
+2020-11-21 18:54:33 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.5 km
+2020-11-21 18:54:33 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.6 km
+2020-11-21 18:54:34 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.7 km
+2020-11-21 18:54:34 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.8 km
+2020-11-21 18:54:34 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.9 km
+2020-11-21 18:54:34 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.0 km
+2020-11-21 18:54:34 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.1 km
+2020-11-21 18:54:34 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.2 km
+2020-11-21 18:54:34 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.3 km
+2020-11-21 18:54:34 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.4 km
+2020-11-21 18:54:35 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.5 km
+2020-11-21 18:54:35 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.6 km
+2020-11-21 18:54:35 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.7 km
+2020-11-21 18:54:35 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.8 km
+2020-11-21 18:54:35 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.9 km
+2020-11-21 18:54:35 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :12.0 km
+2020-11-21 18:54:35 INFO  CreateWorkoutCreatePage:32 - # Clicked on link: save
+2020-11-21 18:54:35 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-21 18:54:47 INFO  WorkoutsPage:24 - # Distance Kms worked out :title
+2020-11-21 22:35:11 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 22:35:13 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 22:35:19 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 22:35:19 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 22:35:19 INFO  CreateWorkoutPage:22 - # Clicked on link: Power
+2020-11-21 22:35:20 INFO  CreateWorkoutPage:27 - # Clicked on link: Power
+2020-11-21 22:35:20 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.0 km
+2020-11-21 22:35:20 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.1 km
+2020-11-21 22:35:20 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.2 km
+2020-11-21 22:35:21 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.3 km
+2020-11-21 22:35:21 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.4 km
+2020-11-21 22:35:21 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.5 km
+2020-11-21 22:35:21 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.6 km
+2020-11-21 22:35:22 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.7 km
+2020-11-21 22:35:22 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.8 km
+2020-11-21 22:35:22 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :10.9 km
+2020-11-21 22:35:22 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.0 km
+2020-11-21 22:35:22 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.1 km
+2020-11-21 22:35:22 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.2 km
+2020-11-21 22:35:23 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.3 km
+2020-11-21 22:35:23 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.4 km
+2020-11-21 22:35:23 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.5 km
+2020-11-21 22:35:23 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.6 km
+2020-11-21 22:35:23 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.7 km
+2020-11-21 22:35:24 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.8 km
+2020-11-21 22:35:24 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :11.9 km
+2020-11-21 22:35:24 INFO  CreateWorkoutCreatePage:21 - # Distance Kms worked out :12.0 km
+2020-11-21 22:35:24 INFO  CreateWorkoutCreatePage:32 - # Clicked on link: save
+2020-11-21 22:35:24 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-21 22:38:54 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 22:38:55 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 22:39:06 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 22:39:06 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 22:39:07 INFO  CreateWorkoutPage:22 - # Clicked on link: Power
+2020-11-21 22:39:08 INFO  CreateWorkoutPage:27 - # Clicked on link: Power
+2020-11-21 22:39:13 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-21 22:40:35 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 22:40:36 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 22:40:42 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 22:40:43 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 22:40:43 INFO  CreateWorkoutPage:22 - # Clicked on link: Power
+2020-11-21 22:40:43 INFO  CreateWorkoutPage:27 - # Clicked on link: Power
+2020-11-21 22:40:47 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-21 22:40:47 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-21 22:46:10 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 22:46:11 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 22:46:18 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 22:46:18 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 22:46:18 INFO  CreateWorkoutPage:22 - # Clicked on link: Power
+2020-11-21 22:46:18 INFO  CreateWorkoutPage:27 - # Clicked on link: Power
+2020-11-21 22:49:16 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 22:49:17 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 22:50:00 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 22:50:04 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 22:50:13 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 22:50:13 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 22:50:13 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-21 22:50:13 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-21 22:50:17 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-21 22:50:17 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-21 22:52:30 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 22:52:31 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 22:52:38 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 22:52:38 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 22:52:38 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-21 22:52:39 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-21 22:52:42 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-21 22:52:42 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-21 22:57:25 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 22:57:26 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 22:57:34 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 22:57:34 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 22:57:34 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-21 22:57:34 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-21 22:57:37 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-21 22:57:38 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-21 23:01:35 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 23:01:37 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 23:01:44 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 23:01:44 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 23:01:44 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-21 23:01:44 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-21 23:01:49 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-21 23:01:49 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-21 23:04:47 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 23:04:49 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 23:04:57 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 23:04:57 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 23:04:57 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-21 23:04:58 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-21 23:05:08 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-21 23:05:09 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-21 23:05:23 INFO  WorkoutsPage:33 - # Distance Kms worked out :Martigny, Orchard Ride
+2020-11-21 23:08:03 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 23:08:08 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 23:08:15 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 23:08:15 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 23:08:15 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-21 23:08:16 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-21 23:08:19 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-21 23:08:19 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-21 23:09:28 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 23:09:30 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 23:09:38 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 23:09:38 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 23:09:38 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-21 23:09:39 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-21 23:09:42 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-21 23:09:42 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-21 23:15:21 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 23:15:22 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 23:15:28 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 23:15:28 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 23:15:28 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-21 23:15:28 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-21 23:15:31 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-21 23:15:31 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-21 23:17:44 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 23:17:45 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 23:17:52 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 23:17:52 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 23:17:52 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-21 23:17:53 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-21 23:17:56 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-21 23:17:56 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-21 23:23:50 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-21 23:23:51 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-21 23:24:00 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-21 23:24:00 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-21 23:24:00 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-21 23:24:01 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-21 23:24:11 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-21 23:24:11 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-22 09:58:02 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-22 09:58:03 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-22 09:58:09 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 09:58:10 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 09:58:10 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 09:58:10 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 09:58:14 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-22 09:58:14 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-22 10:00:37 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-22 10:00:38 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-22 10:00:45 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 10:00:45 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 10:00:45 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 10:00:45 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 10:00:49 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-22 10:00:49 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-22 10:06:23 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-22 10:06:24 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-22 10:06:32 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 10:06:32 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 10:06:32 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 10:06:33 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 10:06:36 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-22 10:06:36 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-22 10:23:54 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-22 10:23:55 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-22 10:24:03 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 10:24:03 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 10:24:03 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 10:24:04 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 10:24:08 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-22 10:24:08 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-22 10:35:19 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-22 10:35:20 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-22 10:35:27 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 10:35:28 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 10:35:28 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 10:35:28 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 10:35:34 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-22 10:35:34 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-22 10:43:07 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-22 10:43:09 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-22 10:43:15 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 10:43:15 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 10:43:16 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 10:43:16 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 10:46:33 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-22 10:46:35 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-22 10:46:42 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 10:46:42 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 10:46:42 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 10:46:43 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 10:46:47 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-22 10:46:47 INFO  SaveDialogBox:25 - # Clicked on link: save
+2020-11-22 10:46:54 INFO  WorkoutsPage:29 - # Distance Kms worked out :title
+2020-11-22 10:52:20 INFO  TacxMainPage:28 - # Clicked on button: CreateAccount
+2020-11-22 10:52:22 INFO  TacxMainPage:45 - # Clicked on button: signup
+2020-11-22 10:52:29 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 10:52:29 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 10:52:29 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 10:52:30 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 10:52:34 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-22 10:52:34 INFO  SaveDialogBox:26 - # Title Entered:title
+2020-11-22 10:52:34 INFO  SaveDialogBox:21 - Clicked save button
+2020-11-22 10:52:40 INFO  WorkoutsPage:29 - # Distance Kms worked out :title
+2020-11-22 21:22:05 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-22 21:22:05 INFO  TacxSignUpPage:34 - Firstname entered : name1
+2020-11-22 21:22:06 INFO  TacxSignUpPage:37 - Email entered : emailtxt2478@gmail.com
+2020-11-22 21:22:06 INFO  TacxSignUpPage:39 - Password entered :
+2020-11-22 21:22:06 INFO  TacxSignUpPage:41 - Repeatpassword entered :
+2020-11-22 21:22:06 INFO  TacxSignUpPage:43 - agree checkbox checked
+2020-11-22 21:22:07 INFO  TacxSignUpPage:45 - age checkbox checked
+2020-11-22 21:22:07 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-22 21:22:13 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 21:22:13 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 21:22:13 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 21:22:14 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 21:22:17 INFO  CreateWorkoutCreatePage:31 - # Clicked on link: save
+2020-11-22 21:22:17 INFO  SaveDialogBox:26 - # Title Entered:title
+2020-11-22 21:22:17 INFO  SaveDialogBox:21 - Clicked save button
+2020-11-22 21:52:24 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-22 21:52:24 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-22 21:52:24 INFO  TacxSignUpPage:37 - # Email entered : emailtxt2884@gmail.com
+2020-11-22 21:52:24 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-22 21:52:24 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-22 21:52:25 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-22 21:52:25 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-22 21:52:25 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-22 21:52:32 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 21:52:32 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 21:52:32 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 21:52:32 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 21:52:35 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-22 21:52:35 INFO  SaveDialogBox:26 - # Title Entered:title
+2020-11-22 21:52:35 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-22 21:52:41 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-22 21:52:42 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 21:52:42 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 21:52:42 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 21:52:43 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 21:52:45 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-22 21:58:37 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-22 21:58:37 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-22 21:58:37 INFO  TacxSignUpPage:37 - # Email entered : emailtxt6133@gmail.com
+2020-11-22 21:58:37 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-22 21:58:37 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-22 21:58:37 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-22 21:58:37 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-22 21:58:38 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-22 21:58:44 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 21:58:44 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 21:58:44 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 21:58:45 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 21:58:47 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-22 21:58:47 INFO  SaveDialogBox:26 - # Title Entered:title
+2020-11-22 21:58:47 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-22 21:58:54 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-22 21:58:56 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 21:58:56 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 21:58:56 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 21:58:56 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 21:58:56 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-22 22:04:32 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-22 22:04:32 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-22 22:04:32 INFO  TacxSignUpPage:37 - # Email entered : emailtxt2683@gmail.com
+2020-11-22 22:04:32 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-22 22:04:32 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-22 22:04:32 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-22 22:04:32 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-22 22:04:32 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-22 22:04:40 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 22:04:40 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 22:04:40 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 22:04:40 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 22:04:44 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-22 22:08:16 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-22 22:08:16 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-22 22:08:17 INFO  TacxSignUpPage:37 - # Email entered : emailtxt2589@gmail.com
+2020-11-22 22:08:17 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-22 22:08:17 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-22 22:08:17 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-22 22:08:17 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-22 22:08:17 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-22 22:08:24 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 22:08:24 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 22:08:24 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 22:08:24 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 22:08:28 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-22 22:08:28 INFO  SaveDialogBox:26 - # Title Entered:title
+2020-11-22 22:08:28 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-22 22:08:36 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-22 22:08:37 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 22:08:37 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 22:08:37 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 22:08:38 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 22:08:38 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-22 22:08:38 INFO  SaveDialogBox:26 - # Title Entered:title12
+2020-11-22 22:08:38 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-22 22:08:39 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-22 22:28:49 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-22 22:28:49 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-22 22:28:49 INFO  TacxSignUpPage:37 - # Email entered : emailtxt9395@gmail.com
+2020-11-22 22:28:49 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-22 22:28:50 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-22 22:28:50 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-22 22:28:50 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-22 22:28:50 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-22 22:28:56 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 22:28:56 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 22:28:56 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 22:28:57 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 22:29:00 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-22 22:29:00 INFO  SaveDialogBox:26 - # Title Entered:title
+2020-11-22 22:29:00 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-22 22:29:07 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-22 22:29:08 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 22:29:08 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 22:29:08 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 22:29:08 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 22:29:08 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-22 22:29:08 INFO  SaveDialogBox:26 - # Title Entered:title12
+2020-11-22 22:29:09 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-22 22:29:10 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-22 22:30:13 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-22 22:30:13 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-22 22:30:13 INFO  TacxSignUpPage:37 - # Email entered : emailtxt6436@gmail.com
+2020-11-22 22:30:14 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-22 22:30:14 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-22 22:30:14 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-22 22:30:14 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-22 22:30:14 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-22 22:30:20 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 22:30:20 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 22:30:21 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 22:30:21 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 22:30:24 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-22 22:30:24 INFO  SaveDialogBox:26 - # Title Entered:title
+2020-11-22 22:30:24 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-22 22:30:30 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-22 22:30:31 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 22:30:31 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 22:30:31 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 22:30:32 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 22:30:32 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-22 22:30:32 INFO  SaveDialogBox:26 - # Title Entered:title12
+2020-11-22 22:30:32 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-22 22:30:33 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-22 22:34:46 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-22 22:34:46 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-22 22:34:46 INFO  TacxSignUpPage:37 - # Email entered : emailtxt1080@gmail.com
+2020-11-22 22:34:46 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-22 22:34:47 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-22 22:34:47 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-22 22:34:47 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-22 22:34:47 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-22 22:34:53 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 22:34:53 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 22:34:53 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 22:34:54 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 22:34:57 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-22 22:34:57 INFO  SaveDialogBox:26 - # Title Entered:title
+2020-11-22 22:34:57 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-22 22:35:04 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-22 22:35:05 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 22:35:05 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 22:35:05 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 22:35:06 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 22:35:06 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-22 22:35:06 INFO  SaveDialogBox:26 - # Title Entered:title12
+2020-11-22 22:35:06 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-22 22:35:08 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-22 22:53:19 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-22 22:53:19 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-22 22:53:19 INFO  TacxSignUpPage:37 - # Email entered : emailtxt6196@gmail.com
+2020-11-22 22:53:20 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-22 22:53:20 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-22 22:53:20 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-22 22:53:20 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-22 22:53:20 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-22 22:53:28 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 22:53:28 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 22:53:28 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 22:53:29 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 22:53:32 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-22 22:53:32 INFO  SaveDialogBox:26 - # Title Entered:title
+2020-11-22 22:53:32 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-22 22:53:39 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-22 22:53:40 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-22 22:53:40 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-22 22:53:40 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-22 22:53:40 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-22 22:53:41 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-22 22:53:41 INFO  SaveDialogBox:26 - # Title Entered:title12
+2020-11-22 22:53:41 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-22 22:53:42 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
