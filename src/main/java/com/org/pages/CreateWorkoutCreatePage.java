@@ -3,6 +3,7 @@ package com.org.pages;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 
+import com.org.utility.Dataprovider;
 import com.org.utility.UIOperation;
 
 public class CreateWorkoutCreatePage extends UIOperation {
@@ -19,6 +20,14 @@ public class CreateWorkoutCreatePage extends UIOperation {
 
 	public String getKms() {
 		return getTextxpath(distance_Kms);
+	}
+	
+	public void kmsworkedOutTotal(String kmsStr) {
+		while (true) {
+			if (getKms().equals(kmsStr))
+				break;
+			clickdistanceincreaseindicator();
+		}
 	}
 	
 	public void clickdistanceincreaseindicator() {

@@ -11,6 +11,7 @@ import com.org.pages.Dashboardpage;
 import com.org.pages.SaveDialogBox;
 import com.org.pages.TacxSignUpPage;
 import com.org.pages.WorkoutsPage;
+import com.org.utility.Dataprovider;
 import com.org.utility.StartApplication;
 
 public class TacxTestAssignment extends StartApplication {
@@ -32,45 +33,27 @@ public class TacxTestAssignment extends StartApplication {
 		workouts = new WorkoutsPage(driver);
 
 	}
-	/*
-	 * @Test public void tc_01_createAccount_tacx_MainPageVerification() {
-	 * 
-	 * //Tacx image is shown //push your limits is shown //Login button is shown
-	 * //Create Account is shown }
-	 * 
-	 * @Test public void tc_02_clickCreateAccountFunctionalCheck() { //Click
-	 * CreateAccount }
-	 * 
-	 * @Test public void tc_03__SignUpPageVerification() { //Verify SignUp //Verify
-	 * Push your limits //Verify First name text box }
-	 * 
-	 * @Test public void tc_04_click_Returntologinpage_FunctionalCheck() {
-	 * //clickReturntoLoginPage //Verify SignUp //Verify Push your limits }
-	 */
-
-	// @Test
+	 @Test
 	public void tc_05_clickSignUp_withdetails() {
+		 logger.info("******************Functional Testing for Tacx application started****************** ");
 		signupPage.clickCreateAccount();
 		signupPage.EnterSignUpDetails();
 		signupPage.clickSignUp();
-		assertEquals(dashboard.getCurrentURL(), "https://cloud.tacx.com/#/signup");
+		assertEquals(dashboard.getCurrentURL(), Dataprovider.dashboardURL);
 		dashboard.clickCreateWorkOut();
 		createworkout.clickPower();
 		createworkout.clickDistance();
 		createworkout.clickContinue();
-
-		while (true) {
-			String kms = createworkoutcreate.getKms();
-			if (kms.equals("12.0 km"))
-				break;
-			createworkoutcreate.clickdistanceincreaseindicator();
-		}
-		assertEquals(createworkoutcreate.getKms(), "12.0 km");
+		
+		createworkoutcreate.kmsworkedOutTotal(Dataprovider.kmsWorkedOut);
+		assertEquals(createworkoutcreate.getKms(), Dataprovider.kmsWorkedOut);
 		createworkoutcreate.clicksave();
-		savedialog.entertitle("title");
+		savedialog.entertitle(Dataprovider.workedOutTitleSaved);
 		savedialog.clickSave();
 
 		workouts.clickWorkouts();
-		assertEquals(workouts.getworkoutTitleNewlyCreated(), "title");
+		assertEquals(workouts.getworkoutTitleNewlyCreated(), Dataprovider.workedOutTitleSaved);
+		dashboard.clickSignOut();
+		logger.info("******************Functional Testing for Tacx application COMPLETED ****************** ");
 	}
 }

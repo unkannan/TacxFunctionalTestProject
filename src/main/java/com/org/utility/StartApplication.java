@@ -15,7 +15,6 @@ import com.org.enums.DriverType;
 public class StartApplication {
 	private static Properties prop = ConfigFileReader.ReadProperties();
 	String URL = prop.getProperty("url");
-    //String BROWSER = prop.getProperty("browser");
     public WebDriver driver;
     DriverManager driverManager;
     @BeforeMethod(alwaysRun = true)
@@ -31,7 +30,8 @@ public class StartApplication {
     @AfterMethod(alwaysRun = true)
     public void teardown(ITestResult result) {
         if (driver != null) {
-        //   driver.quit();
+                ScreenshotUtil.captureScreenshot(driver, result.getMethod().getMethodName());
+           driver.quit();
         }
     }
 }

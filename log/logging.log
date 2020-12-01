@@ -798,3 +798,544 @@
 2020-11-22 22:53:41 INFO  SaveDialogBox:26 - # Title Entered:title12
 2020-11-22 22:53:41 INFO  SaveDialogBox:21 - # Clicked save button
 2020-11-22 22:53:42 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-24 09:02:49 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-24 09:02:49 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-24 09:02:50 INFO  TacxSignUpPage:37 - # Email entered : emailtxt8857@gmail.com
+2020-11-24 09:02:51 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-24 09:02:51 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-24 09:02:51 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-24 09:02:51 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-24 09:02:52 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-24 09:02:59 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-24 09:02:59 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-24 09:02:59 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-24 09:03:00 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-24 09:03:05 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-24 09:03:05 INFO  SaveDialogBox:26 - # Title Entered:title
+2020-11-24 09:03:05 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-24 09:03:13 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-24 09:18:36 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-24 09:18:37 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-24 09:18:37 INFO  TacxSignUpPage:37 - # Email entered : emailtxt4286@gmail.com
+2020-11-24 09:18:37 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-24 09:18:38 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-24 09:18:38 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-24 09:18:38 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-24 09:18:38 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-24 09:18:45 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-24 09:18:46 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-24 09:18:46 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-24 09:18:47 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-24 09:18:51 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-24 09:18:52 INFO  SaveDialogBox:26 - # Title Entered:https://cloud.tacx.com/#/signup
+2020-11-24 09:18:52 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-24 09:18:59 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-24 09:26:24 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-24 09:26:24 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-24 09:26:25 INFO  TacxSignUpPage:37 - # Email entered : emailtxt9716@gmail.com
+2020-11-24 09:26:25 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-24 09:26:25 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-24 09:26:25 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-24 09:26:26 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-24 09:26:26 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-24 09:26:33 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-24 09:26:33 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-24 09:26:34 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-24 09:26:34 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-24 09:26:39 INFO  CreateWorkoutCreatePage:30 - # Clicked on link: save
+2020-11-24 09:26:39 INFO  SaveDialogBox:26 - # Title Entered:title
+2020-11-24 09:26:40 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-24 09:26:47 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-24 09:31:19 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-24 09:31:19 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-24 09:31:20 INFO  TacxSignUpPage:37 - # Email entered : emailtxt2250@gmail.com
+2020-11-24 09:31:20 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-24 09:31:21 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-24 09:31:21 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-24 09:31:21 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-24 09:31:21 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-24 09:31:29 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-24 09:31:29 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-24 09:31:29 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-24 09:31:30 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-24 09:38:39 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-24 09:38:39 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-24 09:38:39 INFO  TacxSignUpPage:37 - # Email entered : emailtxt6991@gmail.com
+2020-11-24 09:38:40 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-24 09:38:40 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-24 09:38:40 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-24 09:38:40 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-24 09:38:40 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-24 09:38:48 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-24 09:38:48 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-24 09:38:48 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-24 09:38:49 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-24 09:40:58 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-24 09:40:58 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-24 09:40:58 INFO  TacxSignUpPage:37 - # Email entered : emailtxt7396@gmail.com
+2020-11-24 09:40:59 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-24 09:40:59 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-24 09:40:59 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-24 09:40:59 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-24 09:41:00 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-24 09:41:07 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-24 09:41:07 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-24 09:41:07 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-24 09:41:08 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-24 09:42:21 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-24 09:42:21 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-24 09:42:21 INFO  TacxSignUpPage:37 - # Email entered : emailtxt352@gmail.com
+2020-11-24 09:42:22 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-24 09:42:22 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-24 09:42:22 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-24 09:42:22 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-24 09:42:22 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-24 09:42:30 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-24 09:42:31 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-24 09:42:31 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-24 09:42:32 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-24 09:44:36 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-24 09:44:36 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-24 09:44:37 INFO  TacxSignUpPage:37 - # Email entered : emailtxt4788@gmail.com
+2020-11-24 09:44:37 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-24 09:44:37 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-24 09:44:42 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-24 09:44:47 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-24 09:44:52 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-24 09:45:04 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-24 09:45:09 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-24 09:45:14 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-24 09:45:20 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-24 09:45:50 INFO  CreateWorkoutCreatePage:39 - # Clicked on link: save
+2020-11-24 09:45:50 INFO  SaveDialogBox:26 - # Title Entered :title
+2020-11-24 09:45:50 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-24 09:46:03 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-24 22:06:10 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-24 22:06:11 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-24 22:06:11 INFO  TacxSignUpPage:37 - # Email entered : emailtxt9794@gmail.com
+2020-11-24 22:06:11 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-24 22:06:11 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-24 22:06:12 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-24 22:06:12 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-24 22:06:12 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-24 22:06:19 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-24 22:06:19 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-24 22:06:19 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-24 22:06:20 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-24 22:06:25 INFO  CreateWorkoutCreatePage:39 - # Clicked on link: save
+2020-11-24 22:06:25 INFO  SaveDialogBox:26 - # Title Entered :title
+2020-11-24 22:06:25 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-24 22:06:32 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-24 22:06:33 INFO  Dashboardpage:30 - # Clicked on button: SignOut
+2020-11-24 22:07:28 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-24 22:07:28 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-24 22:07:29 INFO  TacxSignUpPage:37 - # Email entered : emailtxt1353@gmail.com
+2020-11-24 22:07:29 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-24 22:07:29 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-24 22:07:29 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-24 22:07:29 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-24 22:07:29 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-24 22:07:37 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-24 22:07:38 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-24 22:07:38 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-24 22:07:38 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-24 22:07:42 INFO  CreateWorkoutCreatePage:39 - # Clicked on link: save
+2020-11-24 22:07:42 INFO  SaveDialogBox:26 - # Title Entered :title
+2020-11-24 22:07:42 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-24 22:07:50 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-24 22:07:51 INFO  Dashboardpage:30 - # Clicked on button: SignOut
+2020-11-24 23:15:01 INFO  RestApiAutomation:46 - # Employee id is : 1
+2020-11-24 23:15:01 INFO  RestApiAutomation:47 - # Employee Name is : Tiger Nixon
+2020-11-24 23:15:01 INFO  RestApiAutomation:48 - # Employee Salary is : 320800
+2020-11-24 23:15:01 INFO  RestApiAutomation:49 - # Employee Age is : 61
+2020-11-24 23:24:48 INFO  RestApiAutomation:45 - # ResponseStatusCode is : 200
+2020-11-24 23:24:48 INFO  RestApiAutomation:46 - # Response StatusLine is : HTTP/1.1 200 OK
+2020-11-24 23:24:48 INFO  RestApiAutomation:47 - # Status message is : success
+2020-11-24 23:24:48 INFO  RestApiAutomation:48 - # Employee id is : 1
+2020-11-24 23:24:48 INFO  RestApiAutomation:49 - # Employee Name is : Tiger Nixon
+2020-11-24 23:24:48 INFO  RestApiAutomation:50 - # Employee Salary is : 320800
+2020-11-24 23:24:48 INFO  RestApiAutomation:51 - # Employee Age is : 61
+2020-11-24 23:26:12 INFO  RestApiAutomation:79 - # Employee id is : 2135
+2020-11-24 23:26:13 INFO  RestApiAutomation:45 - # ResponseStatusCode is : 200
+2020-11-24 23:26:13 INFO  RestApiAutomation:46 - # Response StatusLine is : HTTP/1.1 200 OK
+2020-11-24 23:26:13 INFO  RestApiAutomation:47 - # Status message is : success
+2020-11-24 23:26:13 INFO  RestApiAutomation:48 - # Employee id is : 1
+2020-11-24 23:26:13 INFO  RestApiAutomation:49 - # Employee Name is : Tiger Nixon
+2020-11-24 23:26:13 INFO  RestApiAutomation:50 - # Employee Salary is : 320800
+2020-11-24 23:26:13 INFO  RestApiAutomation:51 - # Employee Age is : 61
+2020-11-24 23:26:39 INFO  RestApiAutomation:79 - # Employee id is : 9264
+2020-11-24 23:27:18 INFO  RestApiAutomation:79 - # ResponseStatusCode is : 200
+2020-11-24 23:27:18 INFO  RestApiAutomation:80 - # Response StatusLine is : HTTP/1.1 200 OK
+2020-11-24 23:27:18 INFO  RestApiAutomation:81 - # Status message is : success
+2020-11-24 23:27:18 INFO  RestApiAutomation:82 - # Employee id is : 4030
+2020-11-24 23:27:18 INFO  RestApiAutomation:83 - # Employee Name is : null
+2020-11-24 23:27:18 INFO  RestApiAutomation:84 - # Employee Salary is : null
+2020-11-24 23:27:18 INFO  RestApiAutomation:85 - # Employee Age is : null
+2020-11-24 23:30:22 INFO  RestApiAutomation:79 - # ResponseStatusCode is : 200
+2020-11-24 23:30:22 INFO  RestApiAutomation:80 - # Response StatusLine is : HTTP/1.1 200 OK
+2020-11-24 23:30:22 INFO  RestApiAutomation:81 - # Status message is : success
+2020-11-24 23:30:22 INFO  RestApiAutomation:82 - # Employee id is : 6387
+2020-11-24 23:30:22 INFO  RestApiAutomation:83 - # Employee Name is : null
+2020-11-24 23:30:22 INFO  RestApiAutomation:84 - # Employee Salary is : null
+2020-11-24 23:30:22 INFO  RestApiAutomation:85 - # Employee Age is : null
+2020-11-24 23:39:59 INFO  RestApiAutomation:79 - # Employee Name is : null
+2020-11-24 23:39:59 INFO  RestApiAutomation:80 - # Employee Salary is : null
+2020-11-24 23:39:59 INFO  RestApiAutomation:81 - # Employee Age is : null
+2020-11-24 23:55:47 INFO  RestApiAutomation:80 - # Employee Name is : null
+2020-11-24 23:55:47 INFO  RestApiAutomation:81 - # Employee Salary is : null
+2020-11-24 23:55:47 INFO  RestApiAutomation:82 - # Employee Age is : null
+2020-11-25 09:23:36 INFO  RestApiAutomation:77 - # Employee Name is : null
+2020-11-25 09:23:36 INFO  RestApiAutomation:78 - # Employee Salary is : null
+2020-11-25 09:23:36 INFO  RestApiAutomation:79 - # Employee Age is : null
+2020-11-25 09:26:22 INFO  RestApiAutomation:81 - # Employee Name is : null
+2020-11-25 09:26:22 INFO  RestApiAutomation:82 - # Employee Salary is : null
+2020-11-25 09:26:22 INFO  RestApiAutomation:83 - # Employee Age is : null
+2020-11-28 17:20:17 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-11-28 17:20:17 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-11-28 17:20:17 INFO  TacxSignUpPage:37 - # Email entered : emailtxt8803@gmail.com
+2020-11-28 17:20:17 INFO  TacxSignUpPage:39 - # Password entered :
+2020-11-28 17:20:17 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-11-28 17:20:17 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-11-28 17:20:17 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-11-28 17:20:18 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-11-28 17:20:24 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-11-28 17:20:24 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-11-28 17:20:24 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-11-28 17:20:25 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-11-28 17:20:28 INFO  CreateWorkoutCreatePage:39 - # Clicked on link: save
+2020-11-28 17:20:28 INFO  SaveDialogBox:26 - # Title Entered :title
+2020-11-28 17:20:28 INFO  SaveDialogBox:21 - # Clicked save button
+2020-11-28 17:20:34 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-11-28 17:20:35 INFO  Dashboardpage:30 - # Clicked on button: SignOut
+2020-11-28 19:01:38 INFO  RestApiAutomation:81 - # Employee Name is : null
+2020-11-28 19:01:38 INFO  RestApiAutomation:82 - # Employee Salary is : null
+2020-11-28 19:01:38 INFO  RestApiAutomation:83 - # Employee Age is : null
+2020-11-28 19:02:33 INFO  RestApiAutomation:81 - # Employee Name is : null
+2020-11-28 19:02:33 INFO  RestApiAutomation:82 - # Employee Salary is : null
+2020-11-28 19:02:33 INFO  RestApiAutomation:83 - # Employee Age is : null
+2020-11-30 21:15:44 INFO  RestApiAutomation:41 - # Status message is : success
+2020-11-30 21:15:44 INFO  RestApiAutomation:42 - # Employee id is : 1
+2020-11-30 21:15:44 INFO  RestApiAutomation:43 - # Employee Name is : Tiger Nixon
+2020-11-30 21:15:44 INFO  RestApiAutomation:44 - # Employee Salary is : 320800
+2020-11-30 21:15:44 INFO  RestApiAutomation:45 - # Employee Age is : 61
+2020-11-30 21:15:44 INFO  RestApiAutomation:34 - Get All Employee Response Status check 200
+2020-11-30 21:18:01 INFO  RestApiAutomation:41 - # Status message is : success
+2020-11-30 21:18:01 INFO  RestApiAutomation:42 - # Employee id is : 1
+2020-11-30 21:18:01 INFO  RestApiAutomation:43 - # Employee Name is : Tiger Nixon
+2020-11-30 21:18:01 INFO  RestApiAutomation:44 - # Employee Salary is : 320800
+2020-11-30 21:18:01 INFO  RestApiAutomation:45 - # Employee Age is : 61
+2020-11-30 21:18:01 INFO  RestApiAutomation:34 - Get All Employee Response Status check 200
+2020-11-30 21:19:33 INFO  EmployeeServiceHelper:58 - # response statuc code is: 200
+2020-11-30 21:19:34 INFO  RestApiAutomation:41 - # Status message is : success
+2020-11-30 21:19:34 INFO  RestApiAutomation:42 - # Employee id is : 1
+2020-11-30 21:19:34 INFO  RestApiAutomation:43 - # Employee Name is : Tiger Nixon
+2020-11-30 21:19:34 INFO  RestApiAutomation:44 - # Employee Salary is : 320800
+2020-11-30 21:19:34 INFO  RestApiAutomation:45 - # Employee Age is : 61
+2020-11-30 21:19:34 INFO  RestApiAutomation:34 - Get All Employee Response Status check 200
+2020-11-30 21:20:38 INFO  EmployeeServiceHelper:58 - # response status code is: 200
+2020-11-30 21:20:39 INFO  RestApiAutomation:41 - # Status message is : success
+2020-11-30 21:20:39 INFO  RestApiAutomation:42 - # Employee id is : 1
+2020-11-30 21:20:39 INFO  RestApiAutomation:43 - # Employee Name is : Tiger Nixon
+2020-11-30 21:20:39 INFO  RestApiAutomation:44 - # Employee Salary is : 320800
+2020-11-30 21:20:39 INFO  RestApiAutomation:45 - # Employee Age is : 61
+2020-11-30 21:20:39 INFO  RestApiAutomation:34 - Get All Employee Response Status check 200
+2020-11-30 21:29:41 INFO  RestApiAutomation:75 - # Employee Name is : null
+2020-11-30 21:29:41 INFO  RestApiAutomation:76 - # Employee Salary is : null
+2020-11-30 21:29:41 INFO  RestApiAutomation:77 - # Employee Age is : null
+2020-11-30 21:29:42 INFO  EmployeeServiceHelper:58 - # response status code is: 200
+2020-11-30 21:29:42 INFO  RestApiAutomation:41 - # Status message is : success
+2020-11-30 21:29:42 INFO  RestApiAutomation:42 - # Employee id is : 1
+2020-11-30 21:29:42 INFO  RestApiAutomation:43 - # Employee Name is : Tiger Nixon
+2020-11-30 21:29:42 INFO  RestApiAutomation:44 - # Employee Salary is : 320800
+2020-11-30 21:29:42 INFO  RestApiAutomation:45 - # Employee Age is : 61
+2020-11-30 21:29:42 INFO  RestApiAutomation:34 - Get All Employee Response Status check 200
+2020-11-30 21:36:47 INFO  RestApiAutomation:75 - # Employee Name is : null
+2020-11-30 21:36:47 INFO  RestApiAutomation:76 - # Employee Salary is : null
+2020-11-30 21:36:47 INFO  RestApiAutomation:77 - # Employee Age is : null
+2020-11-30 21:36:48 INFO  EmployeeServiceHelper:58 - # response status code is: 200
+2020-11-30 21:36:48 INFO  RestApiAutomation:41 - # Status message is : success
+2020-11-30 21:36:48 INFO  RestApiAutomation:42 - # Employee id is : 1
+2020-11-30 21:36:48 INFO  RestApiAutomation:43 - # Employee Name is : Tiger Nixon
+2020-11-30 21:36:48 INFO  RestApiAutomation:44 - # Employee Salary is : 320800
+2020-11-30 21:36:48 INFO  RestApiAutomation:45 - # Employee Age is : 61
+2020-11-30 21:36:48 INFO  RestApiAutomation:34 - Get All Employee Response Status check 200
+2020-11-30 21:38:17 INFO  EmployeeServiceHelper:58 - # response status code is: 200
+2020-11-30 21:38:18 INFO  RestApiAutomation:41 - # Status message is : success
+2020-11-30 21:38:18 INFO  RestApiAutomation:42 - # Employee id is : 1
+2020-11-30 21:38:18 INFO  RestApiAutomation:43 - # Employee Name is : Tiger Nixon
+2020-11-30 21:38:18 INFO  RestApiAutomation:44 - # Employee Salary is : 320800
+2020-11-30 21:38:18 INFO  RestApiAutomation:45 - # Employee Age is : 61
+2020-11-30 21:38:18 INFO  RestApiAutomation:34 - Get All Employee Response Status check 200
+2020-11-30 21:46:14 INFO  EmployeeServiceHelper:58 - # response status code is: 200
+2020-11-30 21:46:15 INFO  RestApiAutomation:42 - # Status message is : success
+2020-11-30 21:46:15 INFO  RestApiAutomation:43 - # Employee id is : 1
+2020-11-30 21:46:15 INFO  RestApiAutomation:44 - # Employee Name is : Tiger Nixon
+2020-11-30 21:46:15 INFO  RestApiAutomation:45 - # Employee Salary is : 320800
+2020-11-30 21:46:15 INFO  RestApiAutomation:46 - # Employee Age is : 61
+2020-11-30 21:46:15 INFO  RestApiAutomation:35 - Get All Employee Response Status check 200
+2020-11-30 21:48:01 INFO  EmployeeServiceHelper:58 - # response status code is: 200
+2020-11-30 21:48:03 INFO  RestApiAutomation:42 - # Status message is : success
+2020-11-30 21:48:03 INFO  RestApiAutomation:43 - # Employee id is : 1
+2020-11-30 21:48:03 INFO  RestApiAutomation:44 - # Employee Name is : Tiger Nixon
+2020-11-30 21:48:03 INFO  RestApiAutomation:45 - # Employee Salary is : 320800
+2020-11-30 21:48:03 INFO  RestApiAutomation:46 - # Employee Age is : 61
+2020-11-30 21:48:03 INFO  RestApiAutomation:35 - Get All Employee Response Status check 200
+2020-11-30 21:48:45 INFO  EmployeeServiceHelper:58 - # response status code is: 200
+2020-11-30 21:48:47 INFO  RestApiAutomation:42 - # Status message is : success
+2020-11-30 21:48:47 INFO  RestApiAutomation:43 - # Employee id is : 1
+2020-11-30 21:48:47 INFO  RestApiAutomation:44 - # Employee Name is : Tiger Nixon
+2020-11-30 21:48:47 INFO  RestApiAutomation:45 - # Employee Salary is : 320800
+2020-11-30 21:48:47 INFO  RestApiAutomation:46 - # Employee Age is : 61
+2020-11-30 21:48:47 INFO  RestApiAutomation:35 - Get All Employee Response Status check 200
+2020-11-30 22:06:54 INFO  EmployeeServiceHelper:58 - # response status code is: 200
+2020-11-30 22:06:55 INFO  RestApiAutomation:42 - # Status message is : success
+2020-11-30 22:06:55 INFO  RestApiAutomation:43 - # Employee id is : 1
+2020-11-30 22:06:55 INFO  RestApiAutomation:44 - # Employee Name is : Tiger Nixon
+2020-11-30 22:06:55 INFO  RestApiAutomation:45 - # Employee Salary is : 320800
+2020-11-30 22:06:55 INFO  RestApiAutomation:46 - # Employee Age is : 61
+2020-11-30 22:06:55 INFO  RestApiAutomation:35 - Get All Employee Response Status check 200
+2020-11-30 23:10:55 INFO  RestApiAutomation:82 - # New Employee Name created is : test
+2020-11-30 23:10:55 INFO  RestApiAutomation:83 - # New employee_salary created is : 123
+2020-11-30 23:11:47 INFO  RestApiAutomation:82 - # New Employee ID created is : 1955
+2020-11-30 23:11:47 INFO  RestApiAutomation:83 - # New Employee Name created is : test
+2020-11-30 23:11:47 INFO  RestApiAutomation:84 - # New employee_age created is : 23
+2020-11-30 23:11:47 INFO  RestApiAutomation:85 - # New employee_salary created is : 123
+2020-11-30 23:44:54 INFO  RestApiAutomation:77 - # New Employee ID created is : 6844
+2020-11-30 23:46:32 INFO  RestApiAutomation:77 - # New Employee ID created is : 50
+2020-11-30 23:48:10 INFO  RestApiAutomation:77 - # New Employee ID created is : 1127
+2020-11-30 23:50:05 INFO  RestApiAutomation:77 - # New Employee ID created is : 6666
+2020-11-30 23:53:57 INFO  RestApiAutomation:82 - # New Employee ID created is : 5535
+2020-11-30 23:53:57 INFO  RestApiAutomation:83 - # New Employee Name created is : test
+2020-11-30 23:53:57 INFO  RestApiAutomation:84 - # New employee_age created is : 23
+2020-11-30 23:53:57 INFO  RestApiAutomation:85 - # New employee_salary created is : 123
+2020-11-30 23:54:20 INFO  RestApiAutomation:82 - # New Employee ID created is : 8425
+2020-11-30 23:54:20 INFO  RestApiAutomation:83 - # New Employee Name created is : test
+2020-11-30 23:54:20 INFO  RestApiAutomation:84 - # New employee_age created is : 23
+2020-11-30 23:54:20 INFO  RestApiAutomation:85 - # New employee_salary created is : 123
+2020-12-01 00:00:11 INFO  RestApiAutomation:77 - # New Employee ID created is : 3913
+2020-12-01 00:00:11 INFO  RestApiAutomation:78 - # New Employee Name created is : test
+2020-12-01 00:00:11 INFO  RestApiAutomation:79 - # New employee_age created is : 23
+2020-12-01 00:00:11 INFO  RestApiAutomation:80 - # New employee_salary created is : 123
+2020-12-01 00:00:51 INFO  RestApiAutomation:77 - # New Employee ID created is : 6693
+2020-12-01 00:00:51 INFO  RestApiAutomation:78 - # New Employee Name created is : test
+2020-12-01 00:00:51 INFO  RestApiAutomation:79 - # New employee_age created is : 23
+2020-12-01 00:00:51 INFO  RestApiAutomation:80 - # New employee_salary created is : 123
+2020-12-01 00:14:48 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-12-01 00:14:48 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-12-01 00:14:49 INFO  TacxSignUpPage:37 - # Email entered : emailtxt5480@gmail.com
+2020-12-01 00:14:49 INFO  TacxSignUpPage:39 - # Password entered :
+2020-12-01 00:14:49 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-12-01 00:14:49 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-12-01 00:14:49 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-12-01 00:14:49 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-12-01 00:15:52 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-12-01 00:15:53 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-12-01 00:15:53 INFO  TacxSignUpPage:37 - # Email entered : emailtxt9915@gmail.com
+2020-12-01 00:15:53 INFO  TacxSignUpPage:39 - # Password entered :
+2020-12-01 00:15:53 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-12-01 00:15:53 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-12-01 00:15:53 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-12-01 00:15:54 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-12-01 00:16:00 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-12-01 00:16:00 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-12-01 00:16:00 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-12-01 00:16:01 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-12-01 00:16:07 INFO  CreateWorkoutCreatePage:39 - # Clicked on link: save
+2020-12-01 00:16:07 INFO  SaveDialogBox:26 - # Title Entered :title
+2020-12-01 00:16:07 INFO  SaveDialogBox:21 - # Clicked save button
+2020-12-01 00:16:14 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-12-01 00:16:15 INFO  Dashboardpage:30 - # Clicked on button: SignOut
+2020-12-01 00:37:58 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-12-01 00:37:59 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-12-01 00:37:59 INFO  TacxSignUpPage:37 - # Email entered : emailtxt1247@gmail.com
+2020-12-01 00:37:59 INFO  TacxSignUpPage:39 - # Password entered :
+2020-12-01 00:37:59 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-12-01 00:37:59 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-12-01 00:38:00 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-12-01 00:38:00 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-12-01 00:40:35 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-12-01 00:40:35 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-12-01 00:40:35 INFO  TacxSignUpPage:37 - # Email entered : emailtxt9622@gmail.com
+2020-12-01 00:40:35 INFO  TacxSignUpPage:39 - # Password entered :
+2020-12-01 00:40:36 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-12-01 00:40:36 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-12-01 00:40:36 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-12-01 00:40:36 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-12-01 00:52:58 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-12-01 00:52:58 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-12-01 00:52:59 INFO  TacxSignUpPage:37 - # Email entered : emailtxt5421@gmail.com
+2020-12-01 00:52:59 INFO  TacxSignUpPage:39 - # Password entered :
+2020-12-01 00:52:59 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-12-01 00:52:59 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-12-01 00:52:59 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-12-01 00:52:59 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-12-01 00:53:07 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-12-01 00:53:07 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-12-01 00:53:07 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-12-01 00:53:08 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-12-01 00:53:11 INFO  CreateWorkoutCreatePage:39 - # Clicked on link: save
+2020-12-01 00:53:11 INFO  SaveDialogBox:26 - # Title Entered :title
+2020-12-01 00:53:11 INFO  SaveDialogBox:21 - # Clicked save button
+2020-12-01 00:53:18 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-12-01 00:53:19 INFO  Dashboardpage:30 - # Clicked on button: SignOut
+2020-12-01 00:53:37 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-12-01 00:53:38 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-12-01 00:53:38 INFO  TacxSignUpPage:37 - # Email entered : emailtxt7313@gmail.com
+2020-12-01 00:53:38 INFO  TacxSignUpPage:39 - # Password entered :
+2020-12-01 00:53:38 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-12-01 00:53:38 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-12-01 00:53:38 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-12-01 00:53:38 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-12-01 00:53:45 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-12-01 00:53:45 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-12-01 00:53:46 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-12-01 00:53:46 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-12-01 00:53:50 INFO  CreateWorkoutCreatePage:39 - # Clicked on link: save
+2020-12-01 00:53:50 INFO  SaveDialogBox:26 - # Title Entered :title
+2020-12-01 00:53:50 INFO  SaveDialogBox:21 - # Clicked save button
+2020-12-01 00:54:00 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-12-01 00:54:01 INFO  Dashboardpage:30 - # Clicked on button: SignOut
+2020-12-01 00:54:42 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-12-01 00:54:42 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-12-01 00:54:42 INFO  TacxSignUpPage:37 - # Email entered : emailtxt125@gmail.com
+2020-12-01 00:54:42 INFO  TacxSignUpPage:39 - # Password entered :
+2020-12-01 00:54:42 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-12-01 00:54:47 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-12-01 00:54:52 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-12-01 00:54:57 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-12-01 00:55:10 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-12-01 00:55:15 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-12-01 00:55:20 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-12-01 00:55:26 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-12-01 00:57:16 INFO  CreateWorkoutCreatePage:39 - # Clicked on link: save
+2020-12-01 00:57:16 INFO  SaveDialogBox:26 - # Title Entered :title
+2020-12-01 00:57:21 INFO  SaveDialogBox:21 - # Clicked save button
+2020-12-01 00:59:00 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-12-01 00:59:00 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-12-01 00:59:00 INFO  TacxSignUpPage:37 - # Email entered : emailtxt373@gmail.com
+2020-12-01 00:59:01 INFO  TacxSignUpPage:39 - # Password entered :
+2020-12-01 00:59:01 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-12-01 00:59:01 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-12-01 00:59:01 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-12-01 00:59:03 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-12-01 00:59:09 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-12-01 00:59:09 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-12-01 00:59:09 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-12-01 00:59:10 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-12-01 00:59:13 INFO  CreateWorkoutCreatePage:39 - # Clicked on link: save
+2020-12-01 00:59:13 INFO  SaveDialogBox:26 - # Title Entered :title
+2020-12-01 00:59:14 INFO  SaveDialogBox:21 - # Clicked save button
+2020-12-01 00:59:20 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-12-01 00:59:21 INFO  Dashboardpage:30 - # Clicked on button: SignOut
+2020-12-01 01:05:48 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-12-01 01:05:48 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-12-01 01:05:48 INFO  TacxSignUpPage:37 - # Email entered : emailtxt5711@gmail.com
+2020-12-01 01:05:48 INFO  TacxSignUpPage:39 - # Password entered :
+2020-12-01 01:05:49 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-12-01 01:05:49 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-12-01 01:05:49 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-12-01 01:05:49 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-12-01 01:05:55 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-12-01 01:05:55 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-12-01 01:05:56 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-12-01 01:05:56 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-12-01 01:05:59 INFO  CreateWorkoutCreatePage:39 - # Clicked on link: save
+2020-12-01 01:05:59 INFO  SaveDialogBox:26 - # Title Entered :title
+2020-12-01 01:06:00 INFO  SaveDialogBox:21 - # Clicked save button
+2020-12-01 01:06:07 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-12-01 01:06:08 INFO  Dashboardpage:30 - # Clicked on button: SignOut
+2020-12-01 01:06:14 INFO  RestApiAutomation:77 - # New Employee ID created is : 5126
+2020-12-01 01:06:14 INFO  RestApiAutomation:78 - # New Employee Name created is : test
+2020-12-01 01:06:14 INFO  RestApiAutomation:79 - # New employee_age created is : 23
+2020-12-01 01:06:14 INFO  RestApiAutomation:80 - # New employee_salary created is : 123
+2020-12-01 01:06:15 INFO  EmployeeServiceHelper:53 - # response status code is: 200
+2020-12-01 01:06:16 INFO  RestApiAutomation:45 - # Status message is : success
+2020-12-01 01:06:16 INFO  RestApiAutomation:46 - # Employee id is : 1
+2020-12-01 01:06:16 INFO  RestApiAutomation:47 - # Employee Name is : Tiger Nixon
+2020-12-01 01:06:16 INFO  RestApiAutomation:48 - # Employee Salary is : 320800
+2020-12-01 01:06:16 INFO  RestApiAutomation:49 - # Employee Age is : 61
+2020-12-01 01:06:16 INFO  RestApiAutomation:38 - Get All Employee Response Status check 200
+2020-12-01 01:11:57 INFO  TacxTestAssignment:38 - ******************Functional Testing for Tacx application started****************** 
+2020-12-01 01:11:58 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-12-01 01:11:58 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-12-01 01:11:58 INFO  TacxSignUpPage:37 - # Email entered : emailtxt1439@gmail.com
+2020-12-01 01:11:58 INFO  TacxSignUpPage:39 - # Password entered :
+2020-12-01 01:11:58 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-12-01 01:11:58 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-12-01 01:11:58 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-12-01 01:11:59 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-12-01 01:12:06 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-12-01 01:12:07 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-12-01 01:12:07 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-12-01 01:12:08 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-12-01 01:12:11 INFO  CreateWorkoutCreatePage:39 - # Clicked on link: save
+2020-12-01 01:12:11 INFO  SaveDialogBox:26 - # Title Entered :title
+2020-12-01 01:12:12 INFO  SaveDialogBox:21 - # Clicked save button
+2020-12-01 01:12:18 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-12-01 01:12:20 INFO  Dashboardpage:30 - # Clicked on button: SignOut
+2020-12-01 01:12:20 INFO  TacxTestAssignment:57 - ******************Functional Testing for Tacx application COMPLETED ****************** 
+2020-12-01 01:12:23 INFO  RestApiAutomation:34 - ******************Rest API Automation started for test****************** 
+2020-12-01 01:12:23 INFO  RestApiAutomation:61 - This is functionality check for creating an employee
+2020-12-01 01:12:26 INFO  RestApiAutomation:81 - # New Employee ID created is : 8192
+2020-12-01 01:12:26 INFO  RestApiAutomation:82 - # New Employee Name created is : test
+2020-12-01 01:12:26 INFO  RestApiAutomation:83 - # New employee_age created is : 23
+2020-12-01 01:12:26 INFO  RestApiAutomation:84 - # New employee_salary created is : 123
+2020-12-01 01:12:26 INFO  RestApiAutomation:34 - ******************Rest API Automation started for test****************** 
+2020-12-01 01:12:26 INFO  RestApiAutomation:46 - This is functionality check for retreving the single employee data
+2020-12-01 01:12:27 INFO  EmployeeServiceHelper:53 - # response status code is: 429
+2020-12-01 01:12:27 INFO  RestApiAutomation:34 - ******************Rest API Automation started for test****************** 
+2020-12-01 01:12:27 INFO  RestApiAutomation:39 - This is testGetAllEmployee Test 
+2020-12-01 01:12:27 INFO  RestApiAutomation:40 - Get All Employee Response Status check 200
+2020-12-01 01:13:52 INFO  TacxTestAssignment:38 - ******************Functional Testing for Tacx application started****************** 
+2020-12-01 01:13:52 INFO  TacxSignUpPage:28 - # Clicked on button: CreateAccount
+2020-12-01 01:13:52 INFO  TacxSignUpPage:34 - # Firstname entered : name1
+2020-12-01 01:13:53 INFO  TacxSignUpPage:37 - # Email entered : emailtxt5830@gmail.com
+2020-12-01 01:13:53 INFO  TacxSignUpPage:39 - # Password entered :
+2020-12-01 01:13:53 INFO  TacxSignUpPage:41 - # Repeatpassword entered :
+2020-12-01 01:13:53 INFO  TacxSignUpPage:43 - # agree checkbox checked
+2020-12-01 01:13:53 INFO  TacxSignUpPage:45 - # age checkbox checked
+2020-12-01 01:13:53 INFO  TacxSignUpPage:50 - # Clicked on button: signup
+2020-12-01 01:14:00 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-12-01 01:14:01 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-12-01 01:14:01 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-12-01 01:14:03 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-12-01 01:14:09 INFO  CreateWorkoutCreatePage:39 - # Clicked on link: save
+2020-12-01 01:14:10 INFO  SaveDialogBox:26 - # Title Entered :title
+2020-12-01 01:14:10 INFO  SaveDialogBox:21 - # Clicked save button
+2020-12-01 01:14:17 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-12-01 01:14:18 INFO  Dashboardpage:30 - # Clicked on button: SignOut
+2020-12-01 01:14:18 INFO  TacxTestAssignment:57 - ******************Functional Testing for Tacx application COMPLETED ****************** 
+2020-12-01 01:14:22 INFO  RestApiAutomation:34 - ******************Rest API Automation started for test****************** 
+2020-12-01 01:14:22 INFO  RestApiAutomation:61 - This is functionality check for creating an employee
+2020-12-01 01:14:24 INFO  RestApiAutomation:81 - # New Employee ID created is : 2857
+2020-12-01 01:14:24 INFO  RestApiAutomation:82 - # New Employee Name created is : test
+2020-12-01 01:14:24 INFO  RestApiAutomation:83 - # New employee_age created is : 23
+2020-12-01 01:14:24 INFO  RestApiAutomation:84 - # New employee_salary created is : 123
+2020-12-01 01:14:24 INFO  RestApiAutomation:34 - ******************Rest API Automation started for test****************** 
+2020-12-01 01:14:24 INFO  RestApiAutomation:46 - This is functionality check for retreving the single employee data
+2020-12-01 01:14:25 INFO  EmployeeServiceHelper:53 - # response status code is: 200
+2020-12-01 01:14:26 INFO  RestApiAutomation:48 - # Status message is : success
+2020-12-01 01:14:26 INFO  RestApiAutomation:49 - # Employee id is : 1
+2020-12-01 01:14:26 INFO  RestApiAutomation:50 - # Employee Name is : Tiger Nixon
+2020-12-01 01:14:26 INFO  RestApiAutomation:51 - # Employee Salary is : 320800
+2020-12-01 01:14:26 INFO  RestApiAutomation:52 - # Employee Age is : 61
+2020-12-01 01:14:26 INFO  RestApiAutomation:34 - ******************Rest API Automation started for test****************** 
+2020-12-01 01:14:26 INFO  RestApiAutomation:39 - This is testGetAllEmployee Test 
+2020-12-01 01:14:26 INFO  RestApiAutomation:40 - Get All Employee Response Status check 200
+2020-12-01 14:25:53 INFO  RestApiAutomation:34 - ******************Rest API Automation started for test****************** 
+2020-12-01 14:25:53 INFO  RestApiAutomation:61 - This is functionality check for creating an employee
+2020-12-01 14:25:57 INFO  RestApiAutomation:81 - # New Employee ID created is : 198
+2020-12-01 14:25:57 INFO  RestApiAutomation:82 - # New Employee Name created is : test
+2020-12-01 14:25:57 INFO  RestApiAutomation:83 - # New employee_age created is : 23
+2020-12-01 14:25:57 INFO  RestApiAutomation:84 - # New employee_salary created is : 123
+2020-12-01 14:25:57 INFO  RestApiAutomation:34 - ******************Rest API Automation started for test****************** 
+2020-12-01 14:25:57 INFO  RestApiAutomation:46 - This is functionality check for retreving the single employee data
+2020-12-01 14:25:58 INFO  EmployeeServiceHelper:53 - # response status code is: 200
+2020-12-01 14:26:00 INFO  RestApiAutomation:48 - # Status message is : success
+2020-12-01 14:26:00 INFO  RestApiAutomation:49 - # Employee id is : 1
+2020-12-01 14:26:00 INFO  RestApiAutomation:50 - # Employee Name is : Tiger Nixon
+2020-12-01 14:26:00 INFO  RestApiAutomation:51 - # Employee Salary is : 320800
+2020-12-01 14:26:00 INFO  RestApiAutomation:52 - # Employee Age is : 61
+2020-12-01 14:26:00 INFO  RestApiAutomation:34 - ******************Rest API Automation started for test****************** 
+2020-12-01 14:26:00 INFO  RestApiAutomation:39 - This is testGetAllEmployee Test 
+2020-12-01 14:26:00 INFO  RestApiAutomation:40 - Get All Employee Response Status check 200

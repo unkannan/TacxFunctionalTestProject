@@ -3,8 +3,34 @@
   <groupId>TacxFunctionalTestProject</groupId>
   <artifactId>TacxFunctionalTestProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <name>TacxFunctionalTestProject</name>
+  <url>http://maven.apache.org</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
   
   <dependencies>
+  
+<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core -->
+<dependency>
+    <groupId>com.fasterxml.jackson.core</groupId>
+    <artifactId>jackson-core</artifactId>
+    <version>2.11.2</version>
+</dependency>
+ <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>2.11.2</version>
+        </dependency>
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>rest-assured</artifactId>
+            <version>4.3.1</version>
+            <scope>compile</scope>
+        </dependency>
  
  <dependency>  
     <groupId>org.seleniumhq.selenium</groupId>  
@@ -43,6 +69,34 @@
 			<version>1.2.17</version>
 		</dependency>
  
+<!-- https://mvnrepository.com/artifact/org.json/json -->
+<dependency>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    <version>20160810</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple -->
+<dependency>
+    <groupId>com.googlecode.json-simple</groupId>
+    <artifactId>json-simple</artifactId>
+    <version>1.1</version>
+</dependency>
       
 </dependencies>
+<build>
+    <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
+      <plugins>
+        <plugin>
+          <artifactId>maven-surefire-plugin</artifactId>
+          <version>2.22.1</version>
+           <configuration>
+			<suiteXmlFiles>
+ <!-- Need to pass testng.xml files as argument from command line -->
+	<suiteXmlFile>testng.xml</suiteXmlFile>
+</suiteXmlFiles>
+		</configuration>
+        </plugin>
+      </plugins>
+    </pluginManagement>
+  </build>
 </project>

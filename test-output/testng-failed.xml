@@ -7,8 +7,8 @@
         <methods>
           <include name="setUp"/>
           <include name="teardown"/>
+          <include name="tc_05_clickSignUp_withdetails"/>
           <include name="OpenTacxApplication"/>
-          <include name="tc_06_clickSignUp_withdetails"/>
         </methods>
       </class> <!-- com.org.test.TacxTestAssignment -->
     </classes>

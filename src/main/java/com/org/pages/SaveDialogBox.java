@@ -23,7 +23,7 @@ public class SaveDialogBox  extends UIOperation {
 	
 	public void entertitle(String textEnter) {
 		EnterTextXpath(title,textEnter);
-	        logger.info("# Title Entered:"+ textEnter);
+	        logger.info("# Title Entered :"+ textEnter);
 	}
 
 	

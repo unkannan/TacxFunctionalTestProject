@@ -57,8 +57,8 @@ public abstract class UIOperation {
     
     protected void FluentwaitForElement(final String xpathLocator) {
     	Wait<WebDriver> wait = new FluentWait<WebDriver>(driver)							
-				.withTimeout(1000, TimeUnit.SECONDS)			
-				.pollingEvery(10, TimeUnit.SECONDS)			
+				.withTimeout(AppValidationConstantMessages.EXPLICIT_WAIT_TIME, TimeUnit.SECONDS)			
+				.pollingEvery(AppValidationConstantMessages.POLLING_TIME_FLUENT_WAIT, TimeUnit.SECONDS)			
 				.ignoring(WebDriverException.class);
 		
 		WebElement clickseleniumlink = wait.until(new Function<WebDriver, WebElement>(){
