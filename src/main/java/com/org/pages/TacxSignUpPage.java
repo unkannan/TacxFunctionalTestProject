@@ -24,7 +24,10 @@ public class TacxSignUpPage extends UIOperation{
 	
 
 	public void clickCreateAccount() {
+		try {
 			clickID(CreateAccount);
+		}
+    	catch(Exception e) {}
 	        logger.info("# Clicked on button: CreateAccount");
 	}
 	

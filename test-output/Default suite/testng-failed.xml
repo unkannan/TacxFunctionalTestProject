@@ -3,14 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.org.test.TacxTestAssignment">
+      <class name="com.org.test.RestApiAutomation">
         <methods>
-          <include name="setUp"/>
-          <include name="teardown"/>
-          <include name="tc_05_clickSignUp_withdetails"/>
-          <include name="OpenTacxApplication"/>
+          <include name="init"/>
+          <include name="CreateEmployee"/>
+          <include name="GetSingleEmployeeData"/>
         </methods>
-      </class> <!-- com.org.test.TacxTestAssignment -->
+      </class> <!-- com.org.test.RestApiAutomation -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
