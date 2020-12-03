@@ -2,70 +2,70 @@
 <testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="42202" started-at="2020-12-02T17:38:43 CET" finished-at="2020-12-02T17:39:25 CET">
+  <suite name="Suite" duration-ms="51892" started-at="2020-12-02T22:28:40 CET" finished-at="2020-12-02T22:29:32 CET">
     <groups>
     </groups>
-    <test name="Test" duration-ms="42202" started-at="2020-12-02T17:38:43 CET" finished-at="2020-12-02T17:39:25 CET">
+    <test name="Test" duration-ms="51892" started-at="2020-12-02T22:28:40 CET" finished-at="2020-12-02T22:29:32 CET">
       <class name="com.org.test.RestApiAutomation">
-        <test-method status="PASS" signature="init()[pri:0, instance:com.org.test.RestApiAutomation@51b279c9]" name="init" is-config="true" duration-ms="485" started-at="2020-12-02T17:39:18 CET" finished-at="2020-12-02T17:39:19 CET">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.org.test.RestApiAutomation@1ad282e0]" name="init" is-config="true" duration-ms="904" started-at="2020-12-02T22:29:19 CET" finished-at="2020-12-02T22:29:20 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="CreateEmployee()[pri:0, instance:com.org.test.RestApiAutomation@51b279c9]" name="CreateEmployee" duration-ms="2272" started-at="2020-12-02T17:39:19 CET" finished-at="2020-12-02T17:39:21 CET">
+        <test-method status="PASS" signature="CreateEmployee()[pri:0, instance:com.org.test.RestApiAutomation@1ad282e0]" name="CreateEmployee" duration-ms="5193" started-at="2020-12-02T22:29:20 CET" finished-at="2020-12-02T22:29:25 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CreateEmployee -->
-        <test-method status="PASS" signature="init()[pri:0, instance:com.org.test.RestApiAutomation@51b279c9]" name="init" is-config="true" duration-ms="3" started-at="2020-12-02T17:39:21 CET" finished-at="2020-12-02T17:39:21 CET">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.org.test.RestApiAutomation@1ad282e0]" name="init" is-config="true" duration-ms="8" started-at="2020-12-02T22:29:25 CET" finished-at="2020-12-02T22:29:25 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="GetSingleEmployeeData()[pri:0, instance:com.org.test.RestApiAutomation@51b279c9]" name="GetSingleEmployeeData" duration-ms="2157" started-at="2020-12-02T17:39:21 CET" finished-at="2020-12-02T17:39:23 CET">
+        <test-method status="PASS" signature="GetSingleEmployeeData()[pri:0, instance:com.org.test.RestApiAutomation@1ad282e0]" name="GetSingleEmployeeData" duration-ms="5536" started-at="2020-12-02T22:29:25 CET" finished-at="2020-12-02T22:29:30 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GetSingleEmployeeData -->
-        <test-method status="PASS" signature="init()[pri:0, instance:com.org.test.RestApiAutomation@51b279c9]" name="init" is-config="true" duration-ms="1" started-at="2020-12-02T17:39:23 CET" finished-at="2020-12-02T17:39:23 CET">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- init -->
-        <test-method status="PASS" signature="deleteEmployee()[pri:0, instance:com.org.test.RestApiAutomation@51b279c9]" name="deleteEmployee" duration-ms="880" started-at="2020-12-02T17:39:23 CET" finished-at="2020-12-02T17:39:24 CET">
+        <test-method status="PASS" signature="deleteEmployee()[pri:0, instance:com.org.test.RestApiAutomation@1ad282e0]" name="deleteEmployee" duration-ms="823" started-at="2020-12-02T22:29:30 CET" finished-at="2020-12-02T22:29:31 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteEmployee -->
-        <test-method status="PASS" signature="init()[pri:0, instance:com.org.test.RestApiAutomation@51b279c9]" name="init" is-config="true" duration-ms="1" started-at="2020-12-02T17:39:24 CET" finished-at="2020-12-02T17:39:24 CET">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.org.test.RestApiAutomation@1ad282e0]" name="init" is-config="true" duration-ms="0" started-at="2020-12-02T22:29:30 CET" finished-at="2020-12-02T22:29:30 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="testGetAllEmployee()[pri:0, instance:com.org.test.RestApiAutomation@51b279c9]" name="testGetAllEmployee" duration-ms="182" started-at="2020-12-02T17:39:24 CET" finished-at="2020-12-02T17:39:24 CET">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.org.test.RestApiAutomation@1ad282e0]" name="init" is-config="true" duration-ms="8" started-at="2020-12-02T22:29:31 CET" finished-at="2020-12-02T22:29:31 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testGetAllEmployee()[pri:0, instance:com.org.test.RestApiAutomation@1ad282e0]" name="testGetAllEmployee" duration-ms="175" started-at="2020-12-02T22:29:31 CET" finished-at="2020-12-02T22:29:31 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetAllEmployee -->
-        <test-method status="PASS" signature="init()[pri:0, instance:com.org.test.RestApiAutomation@51b279c9]" name="init" is-config="true" duration-ms="1" started-at="2020-12-02T17:39:24 CET" finished-at="2020-12-02T17:39:24 CET">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.org.test.RestApiAutomation@1ad282e0]" name="init" is-config="true" duration-ms="0" started-at="2020-12-02T22:29:31 CET" finished-at="2020-12-02T22:29:31 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="updateEmployee()[pri:0, instance:com.org.test.RestApiAutomation@51b279c9]" name="updateEmployee" duration-ms="1080" started-at="2020-12-02T17:39:24 CET" finished-at="2020-12-02T17:39:25 CET">
+        <test-method status="PASS" signature="updateEmployee()[pri:0, instance:com.org.test.RestApiAutomation@1ad282e0]" name="updateEmployee" duration-ms="817" started-at="2020-12-02T22:29:31 CET" finished-at="2020-12-02T22:29:32 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- updateEmployee -->
       </class> <!-- com.org.test.RestApiAutomation -->
       <class name="com.org.test.TacxTestAssignment">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.org.test.TacxTestAssignment@133e16fd]" name="setUp" is-config="true" duration-ms="8307" started-at="2020-12-02T17:38:43 CET" finished-at="2020-12-02T17:38:51 CET">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.org.test.TacxTestAssignment@51b279c9]" name="setUp" is-config="true" duration-ms="11015" started-at="2020-12-02T22:28:40 CET" finished-at="2020-12-02T22:28:51 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="OpenTacxApplication()[pri:0, instance:com.org.test.TacxTestAssignment@133e16fd]" name="OpenTacxApplication" is-config="true" duration-ms="17" started-at="2020-12-02T17:38:51 CET" finished-at="2020-12-02T17:38:51 CET">
+        <test-method status="PASS" signature="OpenTacxApplication()[pri:0, instance:com.org.test.TacxTestAssignment@51b279c9]" name="OpenTacxApplication" is-config="true" duration-ms="24" started-at="2020-12-02T22:28:51 CET" finished-at="2020-12-02T22:28:51 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenTacxApplication -->
-        <test-method status="PASS" signature="tc_05_clickSignUp_withdetails()[pri:0, instance:com.org.test.TacxTestAssignment@133e16fd]" name="tc_05_clickSignUp_withdetails" duration-ms="24254" started-at="2020-12-02T17:38:51 CET" finished-at="2020-12-02T17:39:16 CET">
+        <test-method status="PASS" signature="tc_05_clickSignUp_withdetails()[pri:0, instance:com.org.test.TacxTestAssignment@51b279c9]" name="tc_05_clickSignUp_withdetails" duration-ms="24181" started-at="2020-12-02T22:28:51 CET" finished-at="2020-12-02T22:29:16 CET">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc_05_clickSignUp_withdetails -->
-        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.org.test.TacxTestAssignment@133e16fd]" name="teardown" is-config="true" duration-ms="2508" started-at="2020-12-02T17:39:16 CET" finished-at="2020-12-02T17:39:18 CET">
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.org.test.TacxTestAssignment@51b279c9]" name="teardown" is-config="true" duration-ms="3144" started-at="2020-12-02T22:29:16 CET" finished-at="2020-12-02T22:29:19 CET">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=tc_05_clickSignUp_withdetails status=SUCCESS method=TacxTestAssignment.tc_05_clickSignUp_withdetails()[pri:0, instance:com.org.test.TacxTestAssignment@133e16fd] output={null}]]]>
+                <![CDATA[[TestResult name=tc_05_clickSignUp_withdetails status=SUCCESS method=TacxTestAssignment.tc_05_clickSignUp_withdetails()[pri:0, instance:com.org.test.TacxTestAssignment@51b279c9] output={null}]]]>
               </value>
             </param>
           </params>

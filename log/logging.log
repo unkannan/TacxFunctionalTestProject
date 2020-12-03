@@ -1961,3 +1961,60 @@
 2020-12-02 17:39:25 INFO  RestApiAutomation:88 - # API Response message for Updated record: Successfully! Record has been updated.
 2020-12-02 17:39:25 INFO  RestApiAutomation:93 - *********************************************************************************************
 
+2020-12-02 22:28:51 INFO  TacxTestAssignment:38 - ******************Functional Testing for Tacx application started****************** 
+2020-12-02 22:28:52 INFO  TacxSignUpPage:31 - # Clicked on button: CreateAccount
+2020-12-02 22:28:52 INFO  TacxSignUpPage:37 - # Firstname entered : name1
+2020-12-02 22:28:52 INFO  TacxSignUpPage:40 - # Email entered : emailtxt874@gmail.com
+2020-12-02 22:28:53 INFO  TacxSignUpPage:42 - # Password entered :
+2020-12-02 22:28:53 INFO  TacxSignUpPage:44 - # Repeatpassword entered :
+2020-12-02 22:28:53 INFO  TacxSignUpPage:46 - # agree checkbox checked
+2020-12-02 22:28:53 INFO  TacxSignUpPage:48 - # age checkbox checked
+2020-12-02 22:28:53 INFO  TacxSignUpPage:53 - # Clicked on button: signup
+2020-12-02 22:29:01 INFO  Dashboardpage:21 - # Clicked on menu: Create Workout
+2020-12-02 22:29:01 INFO  CreateWorkoutPage:32 - # Clicked on link: Power
+2020-12-02 22:29:02 INFO  CreateWorkoutPage:22 - # Clicked on link: Distance
+2020-12-02 22:29:02 INFO  CreateWorkoutPage:27 - # Clicked on link: Continue
+2020-12-02 22:29:07 INFO  CreateWorkoutCreatePage:39 - # Clicked on link: save
+2020-12-02 22:29:07 INFO  SaveDialogBox:26 - # Title Entered :title
+2020-12-02 22:29:07 INFO  SaveDialogBox:21 - # Clicked save button
+2020-12-02 22:29:14 INFO  WorkoutsPage:21 - # Clicked on link: Workouts
+2020-12-02 22:29:16 INFO  Dashboardpage:30 - # Clicked on button: SignOut
+2020-12-02 22:29:16 INFO  TacxTestAssignment:57 - ******************Functional Testing for Tacx application COMPLETED ****************** 
+2020-12-02 22:29:20 INFO  RestApiAutomation:22 - ******************Rest API Automation started for test****************** 
+2020-12-02 22:29:20 INFO  RestApiAutomation:52 - **************************This is functionality check for creating a new employee***********************
+2020-12-02 22:29:20 INFO  EmployeeServiceHelper:30 - # service called to create an employee
+2020-12-02 22:29:25 INFO  RestApiAutomation:63 - # API Response Status for create Record :success
+2020-12-02 22:29:25 INFO  RestApiAutomation:64 - # API Response delete confirm message : Successfully! Record has been added.
+2020-12-02 22:29:25 INFO  RestApiAutomation:69 - # New Employee ID created is : 2295
+2020-12-02 22:29:25 INFO  RestApiAutomation:70 - *********************************************************************************************
+
+2020-12-02 22:29:25 INFO  RestApiAutomation:22 - ******************Rest API Automation started for test****************** 
+2020-12-02 22:29:25 INFO  RestApiAutomation:35 - *************************************This is functionality check for retreving the single employee data*************************
+2020-12-02 22:29:25 INFO  EmployeeServiceHelper:38 - # service called to get a single employee
+2020-12-02 22:29:29 INFO  EmployeeServiceHelper:40 - # response status code is: 200
+2020-12-02 22:29:30 INFO  RestApiAutomation:37 - # Status message is : success
+2020-12-02 22:29:30 INFO  RestApiAutomation:38 - # Employee id is : 1
+2020-12-02 22:29:30 INFO  RestApiAutomation:39 - # Employee Name is : Tiger Nixon
+2020-12-02 22:29:30 INFO  RestApiAutomation:40 - # Employee Salary is : 320800
+2020-12-02 22:29:30 INFO  RestApiAutomation:41 - # Employee Age is : 61
+2020-12-02 22:29:30 INFO  RestApiAutomation:46 - *********************************************************************************************
+
+2020-12-02 22:29:30 INFO  RestApiAutomation:22 - ******************Rest API Automation started for test****************** 
+2020-12-02 22:29:30 INFO  RestApiAutomation:100 - ************************This is functionality check for deleting an employee*************************************
+2020-12-02 22:29:30 INFO  EmployeeServiceHelper:55 - # service called for delete
+2020-12-02 22:29:31 INFO  RestApiAutomation:103 - # API Response Status for Delete Record :success
+2020-12-02 22:29:31 INFO  RestApiAutomation:104 - # API Response delete confirm message : Successfully! Record has been deleted
+2020-12-02 22:29:31 INFO  RestApiAutomation:109 - *********************************************************************************************
+
+2020-12-02 22:29:31 INFO  RestApiAutomation:22 - ******************Rest API Automation started for test****************** 
+2020-12-02 22:29:31 INFO  RestApiAutomation:27 - ****************************This is testGetAllEmployee Test ****************************
+2020-12-02 22:29:31 INFO  RestApiAutomation:28 - # Get All Employee Response Status check : 200
+2020-12-02 22:29:31 INFO  RestApiAutomation:30 - *********************************************************************************************
+
+2020-12-02 22:29:31 INFO  RestApiAutomation:22 - ******************Rest API Automation started for test****************** 
+2020-12-02 22:29:31 INFO  RestApiAutomation:75 - ******************This is functionality check for Updating an employee with given id*********************
+2020-12-02 22:29:31 INFO  EmployeeServiceHelper:47 - # service called to update
+2020-12-02 22:29:32 INFO  RestApiAutomation:87 - # API Response Status for Updated Record :success
+2020-12-02 22:29:32 INFO  RestApiAutomation:88 - # API Response message for Updated record: Successfully! Record has been updated.
+2020-12-02 22:29:32 INFO  RestApiAutomation:93 - *********************************************************************************************
+
